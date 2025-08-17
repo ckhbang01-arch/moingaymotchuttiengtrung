@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Trầm Tích Ngôn Ngữ</title>
+<style>
+:root{
+  --primary:#0A3D62;
+  --accent:#FFC0CB;
+  --bg:#f9f9f9;
+}
+body{margin:0;font-family:Poppins,sans-serif;background:var(--bg);color:#333;}
+header{background:var(--primary);color:white;padding:20px;text-align:center;}
+header p{color:var(--accent);font-style:italic;}
+nav{display:flex;justify-content:center;background:#074070;}
+nav a{padding:15px 25px;color:white;font-weight:bold;text-decoration:none;}
+nav a:hover{background:var(--accent);color:var(--primary);}
+section{padding:40px 20px;max-width:1200px;margin:auto;}
+h2{color:var(--primary);}
+table{width:100%;border-collapse:collapse;margin-bottom:30px;}
+table, th, td{border:1px solid #ccc;}
+th, td{padding:10px;text-align:left;}
+th{background-color:var(--accent);}
+.flashcard-container{display:flex;flex-wrap:wrap;gap:15px;}
+.flashcard{width:150px;height:100px;perspective:1000px;cursor:pointer;}
+.flashcard-inner{position:relative;width:100%;height:100%;transition:transform 0.6s;transform-style:preserve-3d;}
+.flashcard:hover .flashcard-inner{transform:rotateY(180deg);}
+.flashcard-front, .flashcard-back{position:absolute;width:100%;height:100%;backface-visibility:hidden;display:flex;justify-content:center;align-items:center;border-radius:10px;padding:10px;text-align:center;font-weight:bold;}
+.flashcard-front{background:var(--primary);color:white;}
+.flashcard-back{background:var(--accent);color:var(--primary);transform:rotateY(180deg);}
+.exercise{margin-bottom:30px;}
+.exercise input{padding:5px;width:200px;}
+.exercise button{padding:5px 10px;margin-left:5px;background:var(--accent);border:none;color:var(--primary);cursor:pointer;}
+.chart-container{width:100%;max-width:600px;margin:auto;}
+</style>
+</head>
+<body>
+
+<header>
+<h1>Trầm Tích Ngôn Ngữ</h1>
+<p>Dư âm Hán Việt - Khơi Mở tiếng Trung</p>
+</header>
+
+<nav>
+<a href="#dictionary">Trang Học</a>
+<a href="#practice">Trang Ôn Tập</a>
+<a href="#stats">Trang Thống Kê</a>
+</nav>
+
+<section id="dictionary">
+<h2>Bộ từ điển</h2>
+<table>
+<thead>
+<tr><th>Hán Việt</th><th>Tiếng Trung (Pinyin)</th><th>Tiếng Việt</th></tr>
+</thead>
+<tbody id="dictionary-body"></tbody>
+</table>
+
+<h2>Flashcards</h2>
+<div class="flashcard-container" id="flashcards"></div>
+</section>
+
+<section id="practice">
+<h2>Bài tập ôn tập</h2>
+<div class="exercise">
+<p>Điền chữ Hán cho Hán Việt: <strong id="exerciseHV"></strong></p>
+<input type="text" id="answer">
+<button onclick="checkAnswer()">Kiểm tra</button>
+<p id="feedback"></p>
+</div>
+<div class="exercise">
+<p>Chọn chữ Hán đúng cho <strong id="exerciseSelectHV"></strong></p>
+<select id="selectAnswer"></select>
+<button onclick="checkSelect()">Kiểm tra</button>
+<p id="feedbackSelect"></p>
+</div>
+</section>
+
+<section id="stats">
+<h2>Thống kê học tập</h2>
+<div class="chart-container">
+<canvas id="progressChart"></canvas>
+</div>
+</section>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+// ===== Lấy dữ liệu từ JSON 2000 từ HSK =====
+fetch('data/hsk-vocabulary.json')
+  .then(res => res.json())
+  .then(words => {
+    // Hiển thị bảng từ điển
+    const body=document.getElementById('dictionary-body');
+    words.forEach(w=>{
+      const tr=document.createElement('tr');
+      tr.innerHTML=`<td>${w.hv}</td><td>${w.zh} (${w.pinyin})</td><td>${w.vi}</td>`;
+      body.appendChild(tr);
+    });
+
+    // Flashcards
+    const fc=document.getElementById('flashcards');
+    words.forEach(w=>{
+      const card=document.createElement('div');
+      card.className='flashcard';
+      card.innerHTML=`<div class="flashcard-inner">
+        <div class="flashcard-front">${w.zh}<br>${w.hv}</div>
+        <div class="flashcard-back">${w.pinyin}<br>${w.vi}</div>
+      </div>`;
+      fc.appendChild(card);
+    });
+
+    // Bài tập ôn tập
+    let currentExercise=0;
+    function setExercise(){
+      document.getElementById('exerciseHV').textContent=words[currentExercise].hv;
+      document.getElementById('exerciseSelectHV').textContent=words[currentExercise+1].hv;
+      const select=document.getElementById('selectAnswer');
+      select.innerHTML='';
+      const options=[words[currentExercise+1].zh];
+      while(options.length<4){
+        let r=Math.floor(Math.random()*words.length);
+        if(!options.includes(words[r].zh)) options.push(words[r].zh);
+      }
+      options.sort(()=>Math.random()-0.5);
+      options.forEach(o=>{
+        const opt=document.createElement('option');
+        opt.value=o; opt.textContent=o;
+        select.appendChild(opt);
+      });
+    }
+    window.checkAnswer=function(){
+      const input=document.getElementById('answer').value.trim();
+      const feedback=document.getElementById('feedback');
+      const correct=words[currentExercise].zh;
+      if(input===correct){feedback.textContent=`Đúng! ${words[currentExercise].hv} = ${words[currentExercise].zh} (${words[currentExercise].pinyin}) – ${words[currentExercise].vi}`;feedback.style.color='green';}
+      else{feedback.textContent=`Sai! Đáp án: ${correct}`;feedback.style.color='red';}
+      loadStats();
+    }
+    window.checkSelect=function(){
+      const select=document.getElementById('selectAnswer');
+      const feedback=document.getElementById('feedbackSelect');
+      if(select.value===words[currentExercise+1].zh){feedback.textContent=`Đúng! ${words[currentExercise+1].hv} = ${words[currentExercise+1].zh} (${words[currentExercise+1].pinyin}) – ${words[currentExercise+1].vi}`;feedback.style.color='green';}
+      else{feedback.textContent=`Sai! Đáp án: ${words[currentExercise+1].zh}`;feedback.style.color='red';}
+      currentExercise+=2; if(currentExercise>=words.length-1) currentExercise=0;
+      setExercise();
+      loadStats();
+    }
+
+    setExercise();
+
+    // Thống kê
+    function loadStats(){
+      const ctx=document.getElementById('progressChart').getContext('2d');
+      const data={labels:words.slice(0,20).map(w=>w.hv),
+                  datasets:[{label:'Tỷ lệ đoán đúng',data:words.slice(0,20).map(w=>w.correctRate||0),backgroundColor:'rgba(10,61,98,0.7)'}]};
+      if(window.progressChart) window.progressChart.destroy();
+      window.progressChart=new Chart(ctx,{type:'bar',data:data,options:{responsive:true,scales:{y:{beginAtZero:true,max:100}}}});
+    }
+  })
+  .catch(err=>console.error('Lỗi tải dữ liệu:',err));
+</script>
+
+</body>
+</html>

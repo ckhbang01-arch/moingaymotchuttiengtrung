@@ -1,0 +1,548 @@
+```
+document.addEventListener('DOMContentLoaded', () => {
+    const searchInput = document.getElementById('searchInput');
+    const searchButton = document.getElementById('searchButton');
+    const searchResultsDiv = document.getElementById('searchResults');
+    const hskLevelSelect = document.getElementById('hskLevel');
+    const navLinks = document.querySelectorAll('nav ul li a');
+    const sections = document.querySelectorAll('main section');
+
+    // Flashcard elements
+    const flashcardContainer = document.getElementById('currentFlashcard');
+    const prevCardBtn = document.getElementById('prevCard');
+    const flipCardBtn = document.getElementById('flipCard');
+    const nextCardBtn = document.getElementById('nextCard');
+    const learnBtn = document.querySelector('.learn-btn');
+    const reviewBtn = document.querySelector('.review-btn');
+
+    // Review elements
+    const startReviewFlashcardsBtn = document.getElementById('startReviewFlashcards');
+    const startReviewQuizBtn = document.getElementById('startReviewQuiz');
+    const reviewContentDiv = document.getElementById('reviewContent');
+
+    // Statistics elements
+    const totalWordsSpan = document.getElementById('totalWords');
+    const learnedWordsSpan = document.getElementById('learnedWords');
+    const reviewWordsSpan = document.getElementById('reviewWords');
+    const completionRateSpan = document.getElementById('completionRate');
+    const progressChartCanvas = document.getElementById('progressChart');
+
+    // Han Viet Groups elements
+    const hskLevelHanVietSelect = document.getElementById('hskLevelHanViet');
+    const hanVietGroupsContentDiv = document.getElementById('hanVietGroupsContent');
+
+    let allVocabulary = {};
+    let currentVocabulary = [];
+    let flashcards = [];
+    let currentFlashcardIndex = 0;
+    let reviewWords = [];
+    let learnedWords = [];
+    
+    let progressChart;
+    let quizWords = [];
+    let currentQuizIndex = 0;
+    let quizScore = 0;
+    let currentReviewCardIndex = 0;
+
+    // Load all vocabulary data
+    async function loadAllVocabulary() {
+        const hskLevels = ['hsk1', 'hsk2', 'hsk3', 'hsk4', 'hsk5', 'hsk6'];
+        for (const level of hskLevels) {
+            try {
+                const response = await fetch(`data/${level}.json`);
+                allVocabulary[level] = await response.json();
+                console.log(`Loaded ${level} vocabulary`);
+            } catch (error) {
+                console.error(`Error loading ${level}.json:`, error);
+                allVocabulary[level] = [];
+            }
+        }
+        currentVocabulary = allVocabulary['hsk1'] || [];
+        initializeData();
+        updateStatistics();
+    }
+
+    // Initialize user data
+    function initializeData() {
+        loadUserData();
+        flashcards = flashcards.filter(word => 
+            Object.values(allVocabulary).flat().some(v => v.STT === word.STT)
+        );
+        
+        if (flashcards.length === 0 && currentVocabulary.length > 0) {
+            flashcards = currentVocabulary.slice(0, Math.min(10, currentVocabulary.length));
+            saveUserData();
+        }
+        displayFlashcard();
+    }
+
+    // Local storage functions
+    function saveUserData() {
+        localStorage.setItem('flashcards', JSON.stringify(flashcards));
+        localStorage.setItem('reviewWords', JSON.stringify(reviewWords));
+        localStorage.setItem('learnedWords', JSON.stringify(learnedWords));
+    }
+
+    function loadUserData() {
+        flashcards = JSON.parse(localStorage.getItem('flashcards')) || [];
+        reviewWords = JSON.parse(localStorage.getItem('reviewWords')) || [];
+        learnedWords = JSON.parse(localStorage.getItem('learnedWords')) || [];
+    }
+
+    // Navigation
+    navLinks.forEach(link => {
+        link.addEventListener('click', (e) => {
+            e.preventDefault();
+            const targetId = link.getAttribute('href').substring(1);
+            
+            // Update active sections
+            document.querySelectorAll('nav a').forEach(nav => nav.classList.remove('active'));
+            document.querySelectorAll('section').forEach(sec => {
+                sec.classList.remove('active-section');
+                sec.classList.add('hidden-section');
+            });
+            
+            link.classList.add('active');
+            document.getElementById(targetId).classList.remove('hidden-section');
+            document.getElementById(targetId).classList.add('active-section');
+
+            // Special handling for different sections
+            if (targetId === 'statistics') updateStatistics();
+            if (targetId === 'flashcards') displayFlashcard();
+            if (targetId === 'hanviet-groups') loadHanVietGroups(hskLevelHanVietSelect.value);
+        });
+    });
+
+    // Search functionality
+    searchButton.addEventListener('click', performSearch);
+    searchInput.addEventListener('keypress', (e) => e.key === 'Enter' && performSearch());
+    hskLevelSelect.addEventListener('change', (e) => {
+        currentVocabulary = allVocabulary[e.target.value] || [];
+        performSearch();
+    });
+
+    function performSearch() {
+        const query = searchInput.value.toLowerCase().trim();
+        searchResultsDiv.innerHTML = '';
+        
+        if (!query) {
+            searchResultsDiv.innerHTML = '<p>Vui lòng nhập từ khóa để tìm kiếm.</p>';
+            return;
+        }
+
+        const filteredWords = currentVocabulary.filter(word =>
+            word.Tu_moi.toLowerCase().includes(query) ||
+            word.Phien_am.toLowerCase().includes(query) ||
+            word.Giai_thich.toLowerCase().includes(query) ||
+            (word.Han_Viet && word.Han_Viet.toLowerCase().includes(query))
+        );
+
+        if (filteredWords.length === 0) {
+            searchResultsDiv.innerHTML = '<p>Không tìm thấy từ nào phù hợp.</p>';
+            return;
+        }
+
+        filteredWords.forEach(word => {
+            const wordItem = document.createElement('div');
+            wordItem.classList.add('word-item');
+            wordItem.innerHTML = `
+                <h3>${word.Tu_moi} 
+                    <button class="add-to-flashcard" data-stt="${word.STT}">
+                        <i class="fas fa-plus-circle"></i>
+                    </button>
+                </h3>
+                <p class="pinyin">${word.Phien_am}</p>
+                <p class="explanation">${word.Giai_thich} ${word.Han_Viet ? `(${word.Han_Viet})` : ''}</p>
+                <div class="example">
+                    <p class="han">${word.Vi_du_chu_han || ''}</p>
+                    <p class="pinyin">${word.Phien_am_vi_du || ''}</p>
+                    <p class="translation">${word.Dich_vi_du || ''}</p>
+                </div>
+            `;
+            searchResultsDiv.appendChild(wordItem);
+
+            const addButton = wordItem.querySelector('.add-to-flashcard');
+            if (flashcards.some(f => f.STT === word.STT)) {
+                addButton.classList.add('added');
+                addButton.innerHTML = '<i class="fas fa-check-circle"></i>';
+            }
+
+            addButton.addEventListener('click', (e) => {
+                const stt = parseInt(e.currentTarget.dataset.stt);
+                const wordToAdd = currentVocabulary.find(v => v.STT === stt);
+                
+                if (!flashcards.some(f => f.STT === stt)) {
+                    flashcards.push(wordToAdd);
+                    saveUserData();
+                    e.currentTarget.classList.add('added');
+                    e.currentTarget.innerHTML = '<i class="fas fa-check-circle"></i>';
+                    alert(`Đã thêm "${wordToAdd.Tu_moi}" vào Flashcards!`);
+                    updateStatistics();
+                } else {
+                    alert(`"${wordToAdd.Tu_moi}" đã có trong Flashcards.`);
+                }
+            });
+        });
+    }
+
+    // Flashcards functionality
+    function displayFlashcard() {
+        if (flashcards.length === 0) {
+            flashcardContainer.innerHTML = '<p class="flashcard-word">Chưa có từ nào trong Flashcards.</p>';
+            prevCardBtn.disabled = true;
+            nextCardBtn.disabled = true;
+            flipCardBtn.disabled = true;
+            learnBtn.disabled = true;
+            reviewBtn.disabled = true;
+            return;
+        }
+
+        const word = flashcards[currentFlashcardIndex];
+        flashcardContainer.innerHTML = `
+            <div class="flashcard-front">
+                <p class="flashcard-word">${word.Tu_moi}</p>
+                <p class="flashcard-pinyin">${word.Phien_am}</p>
+            </div>
+            <div class="flashcard-back">
+                <p class="flashcard-explanation">${word.Giai_thich} ${word.Han_Viet ? `(${word.Han_Viet})` : ''}</p>
+                <p class="flashcard-example-han">${word.Vi_du_chu_han || ''}</p>
+                <p class="flashcard-example-pinyin">${word.Phien_am_vi_du || ''}</p>
+                <p class="flashcard-example-translation">${word.Dich_vi_du || ''}</p>
+            </div>
+        `;
+        
+        prevCardBtn.disabled = currentFlashcardIndex === 0;
+        nextCardBtn.disabled = currentFlashcardIndex === flashcards.length - 1;
+    }
+
+    flipCardBtn.addEventListener('click', () => {
+        flashcardContainer.classList.toggle('flipped');
+    });
+
+    prevCardBtn.addEventListener('click', () => {
+        if (currentFlashcardIndex > 0) {
+            currentFlashcardIndex--;
+            displayFlashcard();
+        }
+    });
+
+    nextCardBtn.addEventListener('click', () => {
+        if (currentFlashcardIndex < flashcards.length - 1) {
+            currentFlashcardIndex++;
+            displayFlashcard();
+        }
+    });
+
+    learnBtn.addEventListener('click', () => updateProgress('learned'));
+    reviewBtn.addEventListener('click', () => updateProgress('review'));
+
+    function updateProgress(type) {
+        const currentWord = flashcards[currentFlashcardIndex];
+        if (!currentWord) return;
+
+        if (type === 'learned') {
+            if (!learnedWords.some(w => w.STT === currentWord.STT)) {
+                learnedWords.push(currentWord);
+            }
+            reviewWords = reviewWords.filter(w => w.STT !== currentWord.STT);
+        } else {
+            if (!reviewWords.some(w => w.STT === currentWord.STT)) {
+                reviewWords.push(currentWord);
+            }
+            learnedWords = learnedWords.filter(w => w.STT !== currentWord.STT);
+        }
+
+        flashcards.splice(currentFlashcardIndex, 1);
+        if (currentFlashcardIndex >= flashcards.length && flashcards.length > 0) {
+            currentFlashcardIndex = flashcards.length - 1;
+        }
+
+        saveUserData();
+        displayFlashcard();
+        updateStatistics();
+    }
+
+    // Review functionality
+    startReviewFlashcardsBtn.addEventListener('click', () => {
+        if (reviewWords.length === 0) {
+            reviewContentDiv.innerHTML = '<p>Bạn chưa có từ nào cần ôn lại.</p>';
+            return;
+        }
+        currentReviewCardIndex = 0;
+        displayReviewFlashcards();
+    });
+
+    startReviewQuizBtn.addEventListener('click', () => {
+        if (reviewWords.length < 4) {
+            reviewContentDiv.innerHTML = '<p>Bạn cần ít nhất 4 từ để ôn tập.</p>';
+            return;
+        }
+        startQuiz();
+    });
+
+    function displayReviewFlashcards() {
+        if (reviewWords.length === 0) {
+            reviewContentDiv.innerHTML = '<p>Đã ôn tập xong!</p>';
+            return;
+        }
+
+        const word = reviewWords[currentReviewCardIndex];
+        reviewContentDiv.innerHTML = `
+            <div class="flashcard-container">
+                <div class="flashcard" id="reviewFlashcard">
+                    <div class="flashcard-front">
+                        <p class="flashcard-word">${word.Tu_moi}</p>
+                        <p class="flashcard-pinyin">${word.Phien_am}</p>
+                    </div>
+                    <div class="flashcard-back">
+                        <p class="flashcard-explanation">${word.Giai_thich} ${word.Han_Viet ? `(${word.Han_Viet})` : ''}</p>
+                        <p class="flashcard-example-han">${word.Vi_du_chu_han || ''}</p>
+                        <p class="flashcard-example-pinyin">${word.Phien_am_vi_du || ''}</p>
+                        <p class="flashcard-example-translation">${word.Dich_vi_du || ''}</p>
+                    </div>
+                </div>
+            </div>
+            <div class="flashcard-controls">
+                <button id="flipReviewCard"><i class="fas fa-sync-alt"></i> Lật thẻ</button>
+                <button id="nextReviewCard">Tiếp theo <i class="fas fa-arrow-right"></i></button>
+            </div>
+            <div class="flashcard-actions">
+                <button class="btn-action learn-btn" id="markReviewLearned"><i class="fas fa-check-circle"></i> Đã nhớ</button>
+                <button class="btn-action review-btn" id="markReviewAgain"><i class="fas fa-redo"></i> Ôn lại sau</button>
+            </div>
+        `;
+
+        document.getElementById('flipReviewCard').addEventListener('click', () => {
+            document.getElementById('reviewFlashcard').classList.toggle('flipped');
+        });
+
+        document.getElementById('nextReviewCard').addEventListener('click', () => {
+            currentReviewCardIndex = (currentReviewCardIndex + 1) % reviewWords.length;
+            displayReviewFlashcards();
+        });
+
+        document.getElementById('markReviewLearned').addEventListener('click', () => {
+            const currentWord = reviewWords[currentReviewCardIndex];
+            if (!learnedWords.some(w => w.STT === currentWord.STT)) {
+                learnedWords.push(currentWord);
+            }
+            reviewWords.splice(currentReviewCardIndex, 1);
+            if (currentReviewCardIndex >= reviewWords.length) {
+                currentReviewCardIndex = 0;
+            }
+            saveUserData();
+            updateStatistics();
+            displayReviewFlashcards();
+        });
+
+        document.getElementById('markReviewAgain').addEventListener('click', () => {
+            currentReviewCardIndex = (currentReviewCardIndex + 1) % reviewWords.length;
+            displayReviewFlashcards();
+        });
+    }
+
+    function startQuiz() {
+        quizWords = [...reviewWords];
+        currentQuizIndex = 0;
+        quizScore = 0;
+        displayQuizQuestion();
+    }
+
+    function displayQuizQuestion() {
+        if (currentQuizIndex >= quizWords.length) {
+            showQuizResults();
+            return;
+        }
+
+        const currentWord = quizWords[currentQuizIndex];
+        const correctAnswer = currentWord.Giai_thich;
+
+        // Get incorrect answers
+        const allWords = Object.values(allVocabulary).flat();
+        const incorrectAnswers = allWords
+            .filter(w => w.STT !== currentWord.STT)
+            .map(w => w.Giai_thich)
+            .filter((v, i, a) => a.indexOf(v) === i) // Unique
+            .slice(0, 3);
+
+        const options = shuffleArray([correctAnswer, ...incorrectAnswers]);
+
+        reviewContentDiv.innerHTML = `
+            <p class="quiz-question">"${currentWord.Tu_moi}" có nghĩa là gì?</p>
+            <div class="quiz-options">
+                ${options.map(option => `<button class="quiz-option-btn" data-answer="${option}">${option}</button>`).join('')}
+            </div>
+            <p id="quizFeedback"></p>
+            <button id="nextQuizQuestion" class="btn-primary">Tiếp theo <i class="fas fa-arrow-right"></i></button>
+        `;
+
+        const optionButtons = reviewContentDiv.querySelectorAll('.quiz-option-btn');
+        const quizFeedback = document.getElementById('quizFeedback');
+        const nextQuizQuestionBtn = document.getElementById('nextQuizQuestion');
+
+        optionButtons.forEach(button => {
+            button.addEventListener('click', (e) => {
+                const selectedAnswer = e.target.dataset.answer;
+                optionButtons.forEach(btn => btn.disabled = true);
+
+                if (selectedAnswer === correctAnswer) {
+                    quizScore++;
+                    quizFeedback.textContent = 'Chính xác!';
+                    quizFeedback.style.color = 'var(--primary-color)';
+                    e.target.style.backgroundColor = '#D4EDDA';
+                    
+                    if (!learnedWords.some(w => w.STT === currentWord.STT)) {
+                        learnedWords.push(currentWord);
+                    }
+                    reviewWords = reviewWords.filter(w => w.STT !== currentWord.STT);
+                } else {
+                    quizFeedback.textContent = `Sai. Đáp án: "${correctAnswer}"`;
+                    quizFeedback.style.color = '#DC3545';
+                    e.target.style.backgroundColor = '#F8D7DA';
+                    
+                    if (!reviewWords.some(w => w.STT === currentWord.STT)) {
+                        reviewWords.push(currentWord);
+                    }
+                }
+
+                saveUserData();
+                updateStatistics();
+                nextQuizQuestionBtn.style.display = 'block';
+            });
+        });
+
+        nextQuizQuestionBtn.addEventListener('click', () => {
+            currentQuizIndex++;
+            displayQuizQuestion();
+        });
+    }
+
+    function showQuizResults() {
+        reviewContentDiv.innerHTML = `
+            <h3>Kết quả</h3>
+            <p>Đúng: ${quizScore}/${quizWords.length}</p>
+            <p>Tỉ lệ: ${Math.round((quizScore/quizWords.length)*100)}%</p>
+            <button class="btn-primary" onclick="location.reload()">Hoàn thành</button>
+        `;
+    }
+
+    // Han Viet groups functionality
+    hskLevelHanVietSelect.addEventListener('change', (e) => {
+        loadHanVietGroups(e.target.value);
+    });
+
+    function loadHanVietGroups(level) {
+        const words = allVocabulary[level] || [];
+        hanVietGroupsContentDiv.innerHTML = '';
+
+        if (words.length === 0) {
+            hanVietGroupsContentDiv.innerHTML = '<p>Không có dữ liệu từ vựng.</p>';
+            return;
+        }
+
+        // Group by Dong_Am_HV_Level
+        const groups = {
+            'Cao': [],
+            'Trung Bình': [],
+            'Thấp': [],
+            'Khác': []
+        };
+
+        words.forEach(word => {
+            const level = word.Dong_Am_HV_Level || 'Khác';
+            if (groups[level]) {
+                groups[level].push(word);
+            } else {
+                groups['Khác'].push(word);
+            }
+        });
+
+        // Display groups
+        for (const [groupName, groupWords] of Object.entries(groups)) {
+            if (groupWords.length === 0) continue;
+
+            const groupDiv = document.createElement('div');
+            groupDiv.classList.add('han-viet-group');
+            groupDiv.innerHTML = `
+                <h3>${groupName} (${groupWords.length})</h3>
+                <div class="word-list"></div>
+            `;
+
+            const wordListDiv = groupDiv.querySelector('.word-list');
+            groupWords.forEach(word => {
+                const wordItem = document.createElement('div');
+                wordItem.classList.add('word-item');
+                wordItem.innerHTML = `
+                    <h3>${word.Tu_moi}</h3>
+                    <p class="pinyin">${word.Phien_am}</p>
+                    <p class="explanation">${word.Giai_thich}</p>
+                `;
+                wordListDiv.appendChild(wordItem);
+            });
+
+            hanVietGroupsContentDiv.appendChild(groupDiv);
+        }
+    }
+
+    // Statistics functions
+    function updateStatistics() {
+        const total = Object.values(allVocabulary).flat().length;
+        const learned = learnedWords.length;
+        const review = reviewWords.length;
+
+        totalWordsSpan.textContent = total;
+        learnedWordsSpan.textContent = learned;
+        reviewWordsSpan.textContent = review;
+        completionRateSpan.textContent = `${Math.round((learned/total)*100)}%`;
+
+        updateChart();
+    }
+
+    function updateChart() {
+        if (progressChart) progressChart.destroy();
+
+        const ctx = progressChartCanvas.getContext('2d');
+        progressChart = new Chart(ctx, {
+            type: 'doughnut',
+            data: {
+                labels: ['Đã học', 'Cần ôn lại', 'Chưa học'],
+                datasets: [{
+                    data: [
+                        learnedWords.length,
+                        reviewWords.length,
+                        Object.values(allVocabulary).flat().length - learnedWords.length - reviewWords.length
+                    ],
+                    backgroundColor: [
+                        'var(--primary-color)',
+                        'var(--secondary-color)',
+                        '#E0E0E0'
+                    ]
+                }]
+            },
+            options: {
+                responsive: true,
+                plugins: {
+                    legend: { position: 'top' },
+                    title: { 
+                        display: true,
+                        text: 'Tiến độ học tập',
+                        font: { size: 16 }
+                    }
+                }
+            }
+        });
+    }
+
+    // Helper function
+    function shuffleArray(array) {
+        for (let i = array.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [array[i], array[j]] = [array[j], array[i]];
+        }
+        return array;
+    }
+
+    // Initial load
+    loadAllVocabulary();
+});
+```

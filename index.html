@@ -1,94 +1,156 @@
+```
 <!DOCTYPE html>
 <html lang="vi">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Trầm Tích Ngôn Ngữ - Khơi Mở tiếng Trung qua Hán Việt. Từ điển, Flashcards và các công cụ học tập chuyên nghiệp cho người học tiếng Trung.">
-    <title>Trầm Tích Ngôn Ngữ</title>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="styles.css">
+    <title>Ứng dụng học tiếng Trung</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;700&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
-
 <body>
-    <!-- Header -->
+``````
     <header>
         <div class="container">
-            <div class="logo">
-                <h1>Trầm Tích Ngôn Ngữ</h1>
-                <p>Dư âm Hán Việt - Khơi Mở tiếng Trung</p>
-            </div>
+            <h1><i class="fas fa-language"></i> Học tiếng Trung</h1>
             <nav>
                 <ul>
-                    <li><a href="#home">Trang Chủ</a></li>
-                    <li><a href="#learning">Trang Học</a></li>
-                    <li><a href="#review">Trang Ôn Tập</a></li>
-                    <li><a href="#statistics">Trang Thống Kê</a></li>
-                    <li><a href="#contact">Liên Hệ</a></li>
+                    <li><a href="#dictionary" class="active"><i class="fas fa-book"></i> Từ điển</a></li>
+                    <li><a href="#flashcards"><i class="fas fa-clone"></i> Flashcards</a></li>
+                    <li><a href="#review"><i class="fas fa-redo-alt"></i> Ôn tập</a></li>
+                    <li><a href="#statistics"><i class="fas fa-chart-bar"></i> Thống kê</a></li>
+                    <li><a href="#hanviet-groups"><i class="fas fa-yin-yang"></i> Hán Việt</a></li>
                 </ul>
             </nav>
         </div>
     </header>
-
-    <!-- Trang học -->
-    <section id="learning">
-        <div class="container">
-            <h2>Bộ từ điển song song</h2>
-            <table>
-                <thead>
-                    <tr>
-                        <th>Từ Hán Việt</th>
-                        <th>Tiếng Trung (Hán tự + Phiên âm)</th>
-                        <th>Tiếng Việt</th>
-                    </tr>
-                </thead>
-                <tbody id="vocabulary-table">
-                    <!-- Các từ vựng sẽ được thêm vào đây bởi JavaScript -->
-                </tbody>
-            </table>
-
-            <h2>Flashcards</h2>
-            <div class="flashcards" id="flashcards">
-                <!-- Flashcards sẽ được thêm vào đây bởi JavaScript -->
+``````
+    <main class="container">
+        <section id="dictionary" class="active-section">
+            <h2><i class="fas fa-search"></i> Tìm kiếm từ vựng</h2>
+            <div class="hsk-level-selector">
+                <label for="hskLevel">Chọn cấp độ HSK:</label>
+                <select id="hskLevel">
+                    <option value="hsk1">HSK 1</option>
+                    <option value="hsk2">HSK 2</option>
+                    <option value="hsk3">HSK 3</option>
+                    <option value="hsk4">HSK 4</option>
+                    <option value="hsk5">HSK 5</option>
+                    <option value="hsk6">HSK 6</option>
+                </select>
             </div>
-        </div>
-    </section>
-
-    <!-- Trang ôn tập -->
-    <section id="review">
-        <div class="container">
-            <h2>Ôn Tập</h2>
-            <p>Tỉ lệ đoán đúng: <span id="correct-rate">0%</span></p>
-            <button onclick="showAnswer()">Làm bài</button>
-        </div>
-    </section>
-
-    <!-- Trang thống kê -->
-    <section id="statistics">
-        <div class="container">
-            <h2>Thống Kê</h2>
-            <div id="chart-container">
-                <!-- Biểu đồ thống kê sẽ hiển thị ở đây -->
+            <div class="search-bar">
+                <input type="text" id="searchInput" placeholder="Nhập từ tiếng Trung, phiên âm hoặc tiếng Việt...">
+                <button id="searchButton"><i class="fas fa-search"></i> Tìm</button>
             </div>
-        </div>
-    </section>
+            <div id="searchResults" class="word-list">
+                <p>Sử dụng ô tìm kiếm phía trên để tìm từ vựng.</p>
+            </div>
+        </section>
+``````
+        <section id="flashcards" class="hidden-section">
+            <h2><i class="fas fa-clone"></i> Flashcards</h2>
+            <div class="flashcard-controls">
+                <button id="prevCard"><i class="fas fa-arrow-left"></i> Trước</button>
+                <button id="flipCard"><i class="fas fa-sync-alt"></i> Lật thẻ</button>
+                <button id="nextCard">Tiếp <i class="fas fa-arrow-right"></i></button>
+            </div>
+            <div class="flashcard-container">
+                <div class="flashcard" id="currentFlashcard">
+                    <div class="flashcard-front">
+                        <p class="flashcard-word">Đang tải...</p>
+                        <p class="flashcard-pinyin"></p>
+                    </div>
+                    <div class="flashcard-back">
+                        <p class="flashcard-explanation"></p>
+                        <p class="flashcard-example-han"></p>
+                        <p class="flashcard-example-pinyin"></p>
+                        <p class="flashcard-example-translation"></p>
+                    </div>
+                </div>
+            </div>
+            <div class="flashcard-actions">
+                <button class="btn-action learn-btn" data-action="learned"><i class="fas fa-check-circle"></i> Đã học</button>
+                <button class="btn-action review-btn" data-action="review"><i class="fas fa-redo"></i> Cần ôn lại</button>
+            </div>
+        </section>
+``````
+        <section id="review" class="hidden-section">
+            <h2><i class="fas fa-redo-alt"></i> Ôn tập</h2>
+            <p>Chọn chế độ ôn tập:</p>
+            <div class="review-modes">
+                <button id="startReviewFlashcards" class="btn-primary"><i class="fas fa-clone"></i> Ôn tập Flashcards</button>
+                <button id="startReviewQuiz" class="btn-primary"><i class="fas fa-question-circle"></i> Làm bài kiểm tra</button>
+            </div>
+            <div id="reviewContent">
+                <p>Chọn một chế độ ôn tập để bắt đầu.</p>
+            </div>
+        </section>
+``````
+        <section id="review" class="hidden-section">
+            <h2><i class="fas fa-redo-alt"></i> Ôn tập</h2>
+            <p>Chọn chế độ ôn tập:</p>
+            <div class="review-modes">
+                <button id="startReviewFlashcards" class="btn-primary"><i class="fas fa-clone"></i> Ôn tập Flashcards</button>
+                <button id="startReviewQuiz" class="btn-primary"><i class="fas fa-question-circle"></i> Làm bài kiểm tra</button>
+            </div>
+            <div id="reviewContent">
+                <p>Chọn một chế độ ôn tập để bắt đầu.</p>
+            </div>
+        </section>
+``````
+        <section id="statistics" class="hidden-section">
+            <h2><i class="fas fa-chart-bar"></i> Thống kê tiến độ</h2>
+            <div class="stats-grid">
+                <div class="stat-item">
+                    <h3>Tổng số từ</h3>
+                    <p id="totalWords">0</p>
+                </div>
+                <div class="stat-item">
+                    <h3>Từ đã học</h3>
+                    <p id="learnedWords">0</p>
+                </div>
+                <div class="stat-item">
+                    <h3>Từ cần ôn lại</h3>
+                    <p id="reviewWords">0</p>
+                </div>
+                <div class="stat-item">
+                    <h3>Tỷ lệ hoàn thành</h3>
+                    <p id="completionRate">0%</p>
+                </div>
+            </div>
+            <canvas id="progressChart"></canvas>
+        </section>
+``````
+        <section id="hanviet-groups" class="hidden-section">
+            <h2><i class="fas fa-yin-yang"></i> Từ vựng theo Đồng Âm Hán Việt</h2>
+            <p>Chọn cấp độ HSK để xem phân loại Hán Việt:</p>
+            <div class="hsk-level-selector">
+                <label for="hskLevelHanViet">Chọn cấp độ HSK:</label>
+                <select id="hskLevelHanViet">
+                    <option value="hsk1">HSK 1</option>
+                    <option value="hsk2">HSK 2</option>
+                    <option value="hsk3">HSK 3</option>
+                    <option value="hsk4">HSK 4</option>
+                    <option value="hsk5">HSK 5</option>
+                    <option value="hsk6">HSK 6</option>
+                </select>
+            </div>
+            <div id="hanVietGroupsContent">
+                <p>Vui lòng chọn một cấp độ HSK để xem các nhóm từ vựng Hán Việt.</p>
+            </div>
+        </section>
+    </main>
 
-    <!-- Liên hệ -->
-    <section id="contact">
-        <div class="container">
-            <h2>Liên Hệ</h2>
-            <p>Email: contact@tramtichngonngu.com</p>
-        </div>
-    </section>
-
-    <!-- Footer -->
     <footer>
         <div class="container">
-            <p>&copy; 2025 Trầm Tích Ngôn Ngữ. All rights reserved.</p>
+            <p>&copy; 2023 Ứng dụng học tiếng Trung. All rights reserved.</p>
         </div>
     </footer>
 
-    <script src="scripts.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="script.js"></script>
 </body>
-
 </html>
+```

@@ -1,0 +1,1388 @@
+fetch('vocabulary.json')  //
+HSK1 ('vocabulary)//
+ [
+ {
+   "A": "STT",
+   "B": "Từ mới",
+   "C": "Phiên âm",
+   "D": "Giải thích",
+   "E": "Ví dụ (chữ hán)",
+   "F": "Phiên âm",
+   "G": "Dịch"
+ },
+ {
+   "A": "1",
+   "B": "爱",
+   "C": "ài",
+   "D": "yêu",
+   "E": "我爱你。",
+   "F": "Wǒ ài nǐ.",
+   "G": "Tôi yêu bạn."
+ },
+ {
+   "A": "2",
+   "B": "八",
+   "C": "bā",
+   "D": "tám",
+   "E": "他有八个苹果。",
+   "F": "Tā yǒu bā ge píngguǒ.",
+   "G": "Anh ấy có tám quả táo."
+ },
+ {
+   "A": "3",
+   "B": "爸爸",
+   "C": "bàba",
+   "D": "bố",
+   "E": "我的爸爸很高。",
+   "F": "Wǒ de bàba hěn gāo.",
+   "G": "Bố của tôi rất cao."
+ },
+ {
+   "A": "4",
+   "B": "杯子",
+   "C": "bēizi",
+   "D": "cốc",
+   "E": "这是我的杯子。",
+   "F": "Zhè shì wǒ de bēizi.",
+   "G": "Đây là cốc của tôi."
+ },
+ {
+   "A": "5",
+   "B": "北京",
+   "C": "Běijīng",
+   "D": "Bắc Kinh",
+   "E": "北京很大。",
+   "F": "Běijīng hěn dà.",
+   "G": "Bắc Kinh thì lớn."
+ },
+ {
+   "A": "6",
+   "B": "本",
+   "C": "běn",
+   "D": "cuốn (dùng cho sách)",
+   "E": "这本书很有趣。",
+   "F": "Zhè běn shū hěn yǒuqù.",
+   "G": "Quyển sách này rất thú vị."
+ },
+ {
+   "A": "7",
+   "B": "不客气",
+   "C": "bú kèqì",
+   "D": "không có gì (đáp lại lời cảm ơn)",
+   "E": "不客气。",
+   "F": "bú kèqì.",
+   "G": "Không có gì."
+ },
+ {
+   "A": "8",
+   "B": "不",
+   "C": "bù",
+   "D": "không",
+   "E": "他不喜欢吃鱼。",
+   "F": "Tā bù xǐhuān chī yú.",
+   "G": "Anh ấy không thích ăn cá."
+ },
+ {
+   "A": "9",
+   "B": "菜",
+   "C": "cài",
+   "D": "món ăn, rau củ",
+   "E": "我喜欢吃菜。",
+   "F": "Wǒ xǐhuān chī cài.",
+   "G": "Tôi thích ăn rau."
+ },
+ {
+   "A": "10",
+   "B": "茶",
+   "C": "chá",
+   "D": "trà",
+   "E": "我喝茶。",
+   "F": "Wǒ hē chá.",
+   "G": "Tôi uống trà."
+ },
+ {
+   "A": "11",
+   "B": "吃",
+   "C": "chī",
+   "D": "ăn",
+   "E": "我吃苹果。",
+   "F": "Wǒ chī píngguǒ.",
+   "G": "Tôi ăn táo."
+ },
+ {
+   "A": "12",
+   "B": "出租车",
+   "C": "chūzūchē",
+   "D": "taxi",
+   "E": "我坐出租车。",
+   "F": "Wǒ zuò chūzūchē.",
+   "G": "Tôi đi taxi."
+ },
+ {
+   "A": "13",
+   "B": "打电话",
+   "C": "dǎ diànhuà",
+   "D": "gọi điện thoại",
+   "E": "她给我打电话。",
+   "F": "Tā gěi wǒ dǎ diànhuà.",
+   "G": "Cô ấy gọi điện cho tôi."
+ },
+ {
+   "A": "14",
+   "B": "大",
+   "C": "dà",
+   "D": "lớn, to",
+   "E": "这件衣服很大。",
+   "F": "Zhè jiàn yīfú hěn dà.",
+   "G": "Cái áo này rất to."
+ },
+ {
+   "A": "15",
+   "B": "的",
+   "C": "de",
+   "D": "của (thuộc tính)",
+   "E": "这是我的书。",
+   "F": "Zhè shì wǒ de shū.",
+   "G": "Đây là sách của tôi."
+ },
+ {
+   "A": "16",
+   "B": "点",
+   "C": "diǎn",
+   "D": "giờ (trong thời gian)",
+   "E": "现在是三点。",
+   "F": "Xiànzài shì sān diǎn?",
+   "G": "Bây giờ là mấy giờ?"
+ },
+ {
+   "A": "17",
+   "B": "电脑",
+   "C": "diànnǎo",
+   "D": "máy tính",
+   "E": "我用电脑。",
+   "F": "Wǒ yòng diànnǎo.",
+   "G": "Tôi dùng máy tính."
+ },
+ {
+   "A": "18",
+   "B": "电视",
+   "C": "diànshì",
+   "D": "ti vi",
+   "E": "电视很大。",
+   "F": "Diànshì hěn dà.",
+   "G": "Tivi thì lớn."
+ },
+ {
+   "A": "19",
+   "B": "电影",
+   "C": "diànyǐng",
+   "D": "phim",
+   "E": "我喜欢看电影。",
+   "F": "Wǒ xǐhuān kàn diànyǐng.",
+   "G": "Tôi thích xem phim."
+ },
+ {
+   "A": "20",
+   "B": "东西",
+   "C": "dōngxī",
+   "D": "đồ vật, thứ",
+   "E": "这是什么东西？",
+   "F": "Zhè shì shénme dōngxī?",
+   "G": "Đây là cái gì?"
+ },
+ {
+   "A": "21",
+   "B": "都",
+   "C": "dōu",
+   "D": "đều",
+   "E": "我们都去学校。",
+   "F": "Wǒmen dōu qù xuéxiào.",
+   "G": "Chúng tôi đều đi đến trường."
+ },
+ {
+   "A": "22",
+   "B": "读",
+   "C": "dú",
+   "D": "đọc",
+   "E": "她读书很快。",
+   "F": "Tā dúshū hěn kuài.",
+   "G": "Cô ấy đọc sách rất nhanh."
+ },
+ {
+   "A": "23",
+   "B": "对不起",
+   "C": "duìbùqǐ",
+   "D": "xin lỗi",
+   "E": "对不起，我迟到了。",
+   "F": "Duìbuqǐ, wǒ chídào le.",
+   "G": "Xin lỗi, tôi đến muộn."
+ },
+ {
+   "A": "24",
+   "B": "多",
+   "C": "duō",
+   "D": "nhiều",
+   "E": "我有很多书。",
+   "F": "Wǒ yǒu hěn duō shū.",
+   "G": "Tôi có nhiều sách."
+ },
+ {
+   "A": "25",
+   "B": "多少",
+   "C": "duōshǎo",
+   "D": "bao nhiêu",
+   "E": "这本书多少钱？",
+   "F": "Zhè běn shū duōshǎo qián?",
+   "G": "Quyển sách này bao nhiêu tiền?"
+ },
+ {
+   "A": "26",
+   "B": "儿子",
+   "C": "érzi",
+   "D": "con trai",
+   "E": "我的儿子很聪明。",
+   "F": "Wǒ de érzi hěn cōngmíng.",
+   "G": "Con trai của tôi rất thông minh."
+ },
+ {
+   "A": "27",
+   "B": "二",
+   "C": "èr",
+   "D": "hai",
+   "E": "我喜欢“二”数字。",
+   "F": "Wǒ xǐhuān \"èr\" shùzi",
+   "G": "Tôi thích số 2."
+ },
+ {
+   "A": "28",
+   "B": "饭馆",
+   "C": "fànguǎn",
+   "D": "nhà hàng",
+   "E": "我们去饭馆吃饭。",
+   "F": "Wǒmen qù fànguǎn chīfàn.",
+   "G": "Chúng tôi đi nhà hàng ăn cơm."
+ },
+ {
+   "A": "29",
+   "B": "飞机",
+   "C": "fēijī",
+   "D": "máy bay",
+   "E": "飞机很快。",
+   "F": "Fēijī hěn kuài.",
+   "G": "Máy bay thì nhanh."
+ },
+ {
+   "A": "30",
+   "B": "分钟",
+   "C": "fēnzhōng",
+   "D": "phút",
+   "E": "他等了五分钟。",
+   "F": "Tā děngle wǔ fēnzhōng.",
+   "G": "Anh ấy đợi năm phút."
+ },
+ {
+   "A": "31",
+   "B": "高兴",
+   "C": "gāoxìng",
+   "D": "vui",
+   "E": "我很高兴。",
+   "F": "Wǒ hěn gāoxìng.",
+   "G": "Tôi rất vui."
+ },
+ {
+   "A": "32",
+   "B": "个",
+   "C": "gè",
+   "D": "cái (đơn vị lượng từ)",
+   "E": "我有一个钱包。",
+   "F": "Wǒ yǒu yī ge qiánbāo.",
+   "G": "Tôi có một cái ví tiền."
+ },
+ {
+   "A": "33",
+   "B": "工作",
+   "C": "gōngzuò",
+   "D": "công việc",
+   "E": "我的工作很忙。",
+   "F": "Wǒ de gōngzuò hěn máng.",
+   "G": "Công việc của tôi rất bận."
+ },
+ {
+   "A": "34",
+   "B": "狗",
+   "C": "gǒu",
+   "D": "chó",
+   "E": "这只狗很可爱。",
+   "F": "Zhè zhī gǒu hěn kě'ài.",
+   "G": "Con chó này rất dễ thương."
+ },
+ {
+   "A": "35",
+   "B": "汉语",
+   "C": "Hànyǔ",
+   "D": "tiếng Hán",
+   "E": "我在学汉语。",
+   "F": "Wǒ zài xué Hànyǔ.",
+   "G": "Tôi đang học tiếng Trung."
+ },
+ {
+   "A": "36",
+   "B": "好",
+   "C": "hǎo",
+   "D": "tốt, khỏe",
+   "E": "他很好。",
+   "F": "Tā hěn hǎo.",
+   "G": "Anh ấy rất tốt."
+ },
+ {
+   "A": "37",
+   "B": "喝",
+   "C": "hē",
+   "D": "uống",
+   "E": "我喝水。",
+   "F": "Wǒ hē shuǐ.",
+   "G": "Tôi uống nước."
+ },
+ {
+   "A": "38",
+   "B": "和",
+   "C": "hé",
+   "D": "và",
+   "E": "我和你一起去。",
+   "F": "Wǒ hé nǐ yīqǐ qù.",
+   "G": "Tôi và bạn cùng đi."
+ },
+ {
+   "A": "39",
+   "B": "很",
+   "C": "hěn",
+   "D": "rất",
+   "E": "这个苹果很甜。",
+   "F": "Zhège píngguǒ hěn tián.",
+   "G": "Cái táo này rất ngọt."
+ },
+ {
+   "A": "40",
+   "B": "后面",
+   "C": "hòumiàn",
+   "D": "phía sau",
+   "E": "我家在后面。",
+   "F": "Wǒ jiā zài hòumiàn.",
+   "G": "Nhà tôi ở phía sau."
+ },
+ {
+   "A": "41",
+   "B": "回",
+   "C": "huí",
+   "D": "quay lại, về",
+   "E": "我回家了。",
+   "F": "Wǒ huí jiā le.",
+   "G": "Tôi đã về nhà."
+ },
+ {
+   "A": "42",
+   "B": "会",
+   "C": "huì",
+   "D": "sẽ, biết (kỹ năng)",
+   "E": "我会说汉语。",
+   "F": "Wǒ huì shuō Hànyǔ.",
+   "G": "Tôi biết nói tiếng Trung."
+ },
+ {
+   "A": "43",
+   "B": "火车站",
+   "C": "huǒchēzhàn",
+   "D": "ga tàu",
+   "E": "火车站在前面。",
+   "F": "Huǒchēzhàn zài qiánmiàn.",
+   "G": "Ga tàu ở phía trước."
+ },
+ {
+   "A": "44",
+   "B": "几",
+   "C": "jǐ",
+   "D": "mấy",
+   "E": "你有几个苹果？",
+   "F": "Nǐ yǒu jǐ ge píngguǒ?",
+   "G": "Bạn có mấy quả táo?"
+ },
+ {
+   "A": "45",
+   "B": "家",
+   "C": "jiā",
+   "D": "gia đình, nhà",
+   "E": "我家有四口人。",
+   "F": "Wǒ jiā yǒu sì kǒu rén.",
+   "G": "Nhà tôi có bốn người."
+ },
+ {
+   "A": "46",
+   "B": "叫",
+   "C": "jiào",
+   "D": "gọi, tên gọi",
+   "E": "她叫李娜。",
+   "F": "Tā jiào Lǐ Nà.",
+   "G": "Cô ấy tên là Lý Na."
+ },
+ {
+   "A": "47",
+   "B": "今天",
+   "C": "jīntiān",
+   "D": "hôm nay",
+   "E": "今天是星期一。",
+   "F": "Jīntiān shì xīngqī yī.",
+   "G": "Hôm nay là thứ Hai."
+ },
+ {
+   "A": "48",
+   "B": "九",
+   "C": "jiǔ",
+   "D": "chín",
+   "E": "我有九本书。",
+   "F": "Wǒ yǒu jiǔ běn shū.",
+   "G": "Tôi có chín quyển sách."
+ },
+ {
+   "A": "49",
+   "B": "开",
+   "C": "kāi",
+   "D": "mở, khởi động",
+   "E": "我们开车去。",
+   "F": "Wǒmen kāichē qù.",
+   "G": "Chúng tôi đi bằng ô tô."
+ },
+ {
+   "A": "50",
+   "B": "看",
+   "C": "kàn",
+   "D": "xem",
+   "E": "我喜欢看电影。",
+   "F": "Wǒ xǐhuān kàn diànyǐng.",
+   "G": "Tôi thích xem phim."
+ },
+ {
+   "A": "51",
+   "B": "看见",
+   "C": "kànjiàn",
+   "D": "nhìn thấy",
+   "E": "我看见你了。",
+   "F": "Wǒ kànjiàn nǐ le.",
+   "G": "Tôi đã thấy bạn."
+ },
+ {
+   "A": "52",
+   "B": "块",
+   "C": "kuài",
+   "D": "miếng, đồng (tiền)",
+   "E": "这个苹果两块钱。",
+   "F": "Zhège píngguǒ liǎng kuài qián.",
+   "G": "Cái táo này hai tệ."
+ },
+ {
+   "A": "53",
+   "B": "来",
+   "C": "lái",
+   "D": "đến",
+   "E": "明天我来。",
+   "F": "Míngtiān wǒ lái.",
+   "G": "Ngày mai tôi đến."
+ },
+ {
+   "A": "54",
+   "B": "老师",
+   "C": "lǎoshī",
+   "D": "giáo viên",
+   "E": "我的老师很友好。",
+   "F": "Wǒ de lǎoshī hěn yǒuhǎo.",
+   "G": "Giáo viên của tôi rất thân thiện."
+ },
+ {
+   "A": "55",
+   "B": "了",
+   "C": "le",
+   "D": "đã (dùng để chỉ sự thay đổi)",
+   "E": "她去了学校。",
+   "F": "Tā qùle xuéxiào.",
+   "G": "Cô ấy đã đi đến trường."
+ },
+ {
+   "A": "56",
+   "B": "冷",
+   "C": "lěng",
+   "D": "lạnh",
+   "E": "外面很冷。",
+   "F": "Wàimiàn hěn lěng.",
+   "G": "Bên ngoài rất lạnh."
+ },
+ {
+   "A": "57",
+   "B": "里",
+   "C": "lǐ",
+   "D": "trong",
+   "E": "我的书在里面。",
+   "F": "Wǒ de shū zài lǐmiàn.",
+   "G": "Sách của tôi ở bên trong."
+ },
+ {
+   "A": "58",
+   "B": "零",
+   "C": "líng",
+   "D": "không (số 0)",
+   "E": "今天零度。",
+   "F": "Jīntiān líng dù.",
+   "G": "Hôm nay không độ."
+ },
+ {
+   "A": "59",
+   "B": "六",
+   "C": "liù",
+   "D": "sáu",
+   "E": "我有六个苹果。",
+   "F": "Wǒ yǒu liù ge píngguǒ.",
+   "G": "Tôi có sáu quả táo."
+ },
+ {
+   "A": "60",
+   "B": "妈妈",
+   "C": "māma",
+   "D": "mẹ",
+   "E": "我的妈妈很漂亮。",
+   "F": "Wǒ de māmā hěn piàoliang.",
+   "G": "Mẹ của tôi rất xinh đẹp."
+ },
+ {
+   "A": "61",
+   "B": "吗",
+   "C": "ma",
+   "D": "không (dùng trong câu hỏi)",
+   "E": "你好吗？",
+   "F": "Nǐ hǎo ma?",
+   "G": "Bạn khỏe không?"
+ },
+ {
+   "A": "62",
+   "B": "买",
+   "C": "mǎi",
+   "D": "mua",
+   "E": "我买了水果。",
+   "F": "Wǒ mǎile shuǐguǒ.",
+   "G": "Tôi đã mua trái cây."
+ },
+ {
+   "A": "63",
+   "B": "猫",
+   "C": "māo",
+   "D": "mèo",
+   "E": "这只猫很可爱。",
+   "F": "Zhè zhī māo hěn kě'ài.",
+   "G": "Con mèo này rất dễ thương."
+ },
+ {
+   "A": "64",
+   "B": "没",
+   "C": "méi",
+   "D": "không có, chưa",
+   "E": "我没看见他。",
+   "F": "Wǒ méi kànjiàn tā.",
+   "G": "Tôi không nhìn thấy anh ấy."
+ },
+ {
+   "A": "65",
+   "B": "没关系",
+   "C": "méi guānxi",
+   "D": "không sao, không có gì",
+   "E": "下雨了，没关系，我们有伞。",
+   "F": "Xiàyǔ le, méi guānxì, wǒmen yǒu sǎn.",
+   "G": "Trời mưa rồi, không sao đâu, chúng ta có ô."
+ },
+ {
+   "A": "66",
+   "B": "米饭",
+   "C": "mǐfàn",
+   "D": "cơm",
+   "E": "我们吃米饭。",
+   "F": "Wǒmen chī mǐfàn.",
+   "G": "Chúng tôi ăn cơm."
+ },
+ {
+   "A": "67",
+   "B": "明天",
+   "C": "míngtiān",
+   "D": "ngày mai",
+   "E": "明天见。",
+   "F": "Míngtiān jiàn.",
+   "G": "Ngày mai gặp."
+ },
+ {
+   "A": "68",
+   "B": "名字",
+   "C": "míngzi",
+   "D": "tên",
+   "E": "你叫什么名字？",
+   "F": "Nǐ jiào shénme míngzì?",
+   "G": "Bạn tên là gì?"
+ },
+ {
+   "A": "69",
+   "B": "哪里 (哪儿)",
+   "C": "nǎlǐ (nǎr)",
+   "D": "đâu, chỗ nào",
+   "E": "你要去哪儿？",
+   "F": "Nǐ yào qù nǎr？",
+   "G": "Bạn muốn đi đâu?"
+ },
+ {
+   "A": "70",
+   "B": "那",
+   "C": "nà",
+   "D": "đó, kia",
+   "E": "那个书包很漂亮。",
+   "F": "Nàge shūbāo hěn piàoliang.",
+   "G": "Cái cặp sách đó rất đẹp."
+ },
+ {
+   "A": "71",
+   "B": "呢",
+   "C": "ne",
+   "D": "thì sao? (dùng để hỏi thêm)",
+   "E": "你呢？",
+   "F": "Nǐ ne?",
+   "G": "Còn bạn thì sao?"
+ },
+ {
+   "A": "72",
+   "B": "能",
+   "C": "néng",
+   "D": "có thể",
+   "E": "他能说三种语言。",
+   "F": "Tā néng shuō sān zhǒng yǔyán.",
+   "G": "Anh ấy có thể nói ba ngôn ngữ."
+ },
+ {
+   "A": "73",
+   "B": "你",
+   "C": "nǐ",
+   "D": "bạn",
+   "E": "你叫什么名字？",
+   "F": "Nǐ jiào shénme míngzi?",
+   "G": "Bạn tên là gì?"
+ },
+ {
+   "A": "74",
+   "B": "年",
+   "C": "nián",
+   "D": "năm",
+   "E": "我结婚三年了。",
+   "F": "Wǒ jiéhūn sān nián le.",
+   "G": "Tôi kết hôn 3 năm rồi."
+ },
+ {
+   "A": "75",
+   "B": "女儿",
+   "C": "nǚ'ér",
+   "D": "con gái",
+   "E": "她是我的女儿。",
+   "F": "Tā shì wǒ de nǚ'ér.",
+   "G": "Con bé là con gái của tôi."
+ },
+ {
+   "A": "76",
+   "B": "朋友",
+   "C": "péngyou",
+   "D": "bạn",
+   "E": "她的朋友很聪明。",
+   "F": "Tā de péngyou hěn cōngmíng.",
+   "G": "Bạn của cô ấy rất thông minh."
+ },
+ {
+   "A": "77",
+   "B": "漂亮",
+   "C": "piàoliang",
+   "D": "đẹp",
+   "E": "她很漂亮。",
+   "F": "Tā hěn piàoliang.",
+   "G": "Cô ấy rất xinh đẹp."
+ },
+ {
+   "A": "78",
+   "B": "苹果",
+   "C": "píngguǒ",
+   "D": "táo",
+   "E": "这个苹果很好吃。",
+   "F": "Zhège píngguǒ hěn hǎochī.",
+   "G": "Táo này rất ngon."
+ },
+ {
+   "A": "79",
+   "B": "七",
+   "C": "qī",
+   "D": "bảy",
+   "E": "我有七个朋友。",
+   "F": "Wǒ yǒu qī ge péngyou.",
+   "G": "Tôi có bảy người bạn."
+ },
+ {
+   "A": "80",
+   "B": "钱",
+   "C": "qián",
+   "D": "tiền",
+   "E": "这本书多少钱？",
+   "F": "Zhè běn shū duōshǎo qián?",
+   "G": "Cuốn sách này giá bao nhiêu?"
+ },
+ {
+   "A": "81",
+   "B": "前面",
+   "C": "qiánmiàn",
+   "D": "phía trước",
+   "E": "火车站在前面。",
+   "F": "Huǒchēzhàn zài qiánmiàn.",
+   "G": "Ga tàu ở phía trước."
+ },
+ {
+   "A": "82",
+   "B": "请",
+   "C": "qǐng",
+   "D": "xin vui lòng, mời",
+   "E": "请给我菜单。",
+   "F": "Qǐng gěi wǒ càidān.",
+   "G": "Xin vui lòng đưa cho tôi thực đơn."
+ },
+ {
+   "A": "83",
+   "B": "去",
+   "C": "qù",
+   "D": "đi",
+   "E": "我们要去商店。",
+   "F": "Wǒmen yào qù shāngdiàn.",
+   "G": "Chúng tôi phải đến cửa hàng."
+ },
+ {
+   "A": "84",
+   "B": "热",
+   "C": "rè",
+   "D": "nóng",
+   "E": "天气很热。",
+   "F": "Tiānqì hěn rè.",
+   "G": "Thời tiết rất nóng."
+ },
+ {
+   "A": "85",
+   "B": "人",
+   "C": "rén",
+   "D": "người",
+   "E": "这个人很友好。",
+   "F": "Zhè ge rén hěn yǒuhǎo.",
+   "G": "Người này rất thân thiện."
+ },
+ {
+   "A": "86",
+   "B": "认识",
+   "C": "rènshi",
+   "D": "quen biết",
+   "E": "我认识他。",
+   "F": "Wǒ rènshi tā.",
+   "G": "Tôi quen anh ấy."
+ },
+ {
+   "A": "87",
+   "B": "日",
+   "C": "rì",
+   "D": "ngày",
+   "E": "今天是几月几日？",
+   "F": "Jīntiān shì jǐ yuè jǐ rì?",
+   "G": "Hôm nay là ngày mấy tháng mấy?"
+ },
+ {
+   "A": "88",
+   "B": "三",
+   "C": "sān",
+   "D": "ba",
+   "E": "我有三本书。",
+   "F": "Wǒ yǒu sān běn shū.",
+   "G": "Tôi có ba cuốn sách."
+ },
+ {
+   "A": "89",
+   "B": "商店",
+   "C": "shāngdiàn",
+   "D": "cửa hàng",
+   "E": "这个商店很大。",
+   "F": "Zhège shāngdiàn hěn dà.",
+   "G": "Cửa hàng này rất lớn."
+ },
+ {
+   "A": "90",
+   "B": "上",
+   "C": "shàng",
+   "D": "lên",
+   "E": "他在上楼。",
+   "F": "Tā zài shàng lóu.",
+   "G": "Anh ấy đang lên tầng."
+ },
+ {
+   "A": "91",
+   "B": "上午",
+   "C": "shàngwǔ",
+   "D": "buổi sáng",
+   "E": "上午我们去学校。",
+   "F": "Shàngwǔ wǒmen qù xuéxiào.",
+   "G": "Vào buổi sáng chúng tôi đi học."
+ },
+ {
+   "A": "92",
+   "B": "少",
+   "C": "shǎo",
+   "D": "ít",
+   "E": "我们还少一个人。",
+   "F": "Wǒmen hái shǎo yīgè rén.",
+   "G": "Chúng tôi vẫn thiếu một người."
+ },
+ {
+   "A": "93",
+   "B": "谁",
+   "C": "shuí/ shéi",
+   "D": "ai",
+   "E": "谁是你的老师？",
+   "F": "Shéi shì nǐ de lǎoshī?",
+   "G": "Ai là giáo viên của bạn?"
+ },
+ {
+   "A": "94",
+   "B": "什么",
+   "C": "shénme",
+   "D": "cái gì",
+   "E": "你想吃什么？",
+   "F": "Nǐ xiǎng chī shénme?",
+   "G": "Bạn muốn ăn gì?"
+ },
+ {
+   "A": "95",
+   "B": "十",
+   "C": "shí",
+   "D": "mười",
+   "E": "我有十块钱。",
+   "F": "Wǒ yǒu shí kuài qián.",
+   "G": "Tôi có mười tệ."
+ },
+ {
+   "A": "96",
+   "B": "时候",
+   "C": "shíhòu",
+   "D": "lúc, khi",
+   "E": "你什么时候来？",
+   "F": "Nǐ shénme shíhòu lái?",
+   "G": "Bạn đến lúc nào ?"
+ },
+ {
+   "A": "97",
+   "B": "是",
+   "C": "shì",
+   "D": "là, thì",
+   "E": "这是一本好书。",
+   "F": "Zhè shì yī běn hǎo shū.",
+   "G": "Đây là một cuốn sách hay."
+ },
+ {
+   "A": "98",
+   "B": "书",
+   "C": "shū",
+   "D": "sách",
+   "E": "这本书很有意思。",
+   "F": "Zhè běn shū hěn yǒuyìsi.",
+   "G": "Cuốn sách này rất thú vị."
+ },
+ {
+   "A": "99",
+   "B": "水",
+   "C": "shuǐ",
+   "D": "nước",
+   "E": "我喝水。",
+   "F": "Wǒ hē shuǐ.",
+   "G": "Tôi uống nước."
+ },
+ {
+   "A": "100",
+   "B": "水果",
+   "C": "shuǐguǒ",
+   "D": "trái cây",
+   "E": "她喜欢吃水果。",
+   "F": "Tā xǐhuān chī shuǐguǒ.",
+   "G": "Cô ấy thích ăn trái cây."
+ },
+ {
+   "A": "101",
+   "B": "睡觉",
+   "C": "shuìjiào",
+   "D": "ngủ",
+   "E": "他每天晚上十点睡觉。",
+   "F": "Tā měitiān wǎnshàng shí diǎn shuìjiào.",
+   "G": "Anh ấy đi ngủ lúc mười giờ tối mỗi ngày."
+ },
+ {
+   "A": "102",
+   "B": "说话",
+   "C": "shuōhuà",
+   "D": "nói chuyện",
+   "E": "你怎么不说话？",
+   "F": "Nǐ zěnme bù shuōhuà?",
+   "G": "Sao bạn không nói chuyện thế?"
+ },
+ {
+   "A": "103",
+   "B": "四",
+   "C": "sì",
+   "D": "bốn",
+   "E": "他们四个人去旅行。",
+   "F": "Tāmen sì gè rén qù lǚxíng.",
+   "G": "Bốn người họ đi du lịch."
+ },
+ {
+   "A": "104",
+   "B": "岁",
+   "C": "suì",
+   "D": "tuổi",
+   "E": "我今年二十五岁。",
+   "F": "Wǒ jīnnián èrshíwǔ suì.",
+   "G": "Tôi năm nay hai mươi lăm tuổi."
+ },
+ {
+   "A": "105",
+   "B": "他",
+   "C": "tā",
+   "D": "anh ấy, ông ấy",
+   "E": "他是我的朋友。",
+   "F": "Tā shì wǒ de péngyou.",
+   "G": "Anh ấy là bạn của tôi."
+ },
+ {
+   "A": "106",
+   "B": "她",
+   "C": "tā",
+   "D": "cô ấy, bà ấy",
+   "E": "她在家里。",
+   "F": "Tā zài jiālǐ.",
+   "G": "Cô ấy ở nhà."
+ },
+ {
+   "A": "107",
+   "B": "太",
+   "C": "tài",
+   "D": "quá",
+   "E": "今天太热了。",
+   "F": "Jīntiān tài rè le.",
+   "G": "Hôm nay nóng quá."
+ },
+ {
+   "A": "108",
+   "B": "天气",
+   "C": "tiānqì",
+   "D": "thời tiết",
+   "E": "今天天气很好。",
+   "F": "Jīntiān tiānqì hěn hǎo.",
+   "G": "Thời tiết hôm nay rất tốt."
+ },
+ {
+   "A": "109",
+   "B": "听",
+   "C": "tīng",
+   "D": "nghe",
+   "E": "我喜欢听音乐。",
+   "F": "Wǒ xǐhuān tīng yīnyuè.",
+   "G": "Tôi thích nghe nhạc."
+ },
+ {
+   "A": "110",
+   "B": "同学",
+   "C": "tóngxué",
+   "D": "bạn học",
+   "E": "我们是同学。",
+   "F": "Wǒmen shì tóngxué.",
+   "G": "Chúng tôi là bạn học."
+ },
+ {
+   "A": "111",
+   "B": "喂",
+   "C": "wèi",
+   "D": "alo",
+   "E": "喂，你好吗？",
+   "F": "Wèi, nǐ hǎo ma?",
+   "G": "Alo, bạn khỏe không?"
+ },
+ {
+   "A": "112",
+   "B": "我",
+   "C": "wǒ",
+   "D": "tôi",
+   "E": "我想喝水。",
+   "F": "Wǒ xiǎng hē shuǐ.",
+   "G": "Tôi muốn uống nước."
+ },
+ {
+   "A": "113",
+   "B": "我们",
+   "C": "wǒmen",
+   "D": "chúng tôi",
+   "E": "我们一起去吧。",
+   "F": "Wǒmen yīqǐ qù ba.",
+   "G": "Chúng ta cùng đi nhé."
+ },
+ {
+   "A": "114",
+   "B": "五",
+   "C": "wǔ",
+   "D": "năm",
+   "E": "他有五本书。",
+   "F": "Tā yǒu wǔ běn shū.",
+   "G": "Anh ấy có năm cuốn sách."
+ },
+ {
+   "A": "115",
+   "B": "喜欢",
+   "C": "xǐhuān",
+   "D": "thích",
+   "E": "我喜欢喝咖啡。",
+   "F": "Wǒ xǐhuān hē kāfēi.",
+   "G": "Tôi thích uống cà phê."
+ },
+ {
+   "A": "116",
+   "B": "下",
+   "C": "xià",
+   "D": "xuống",
+   "E": "我在下楼。",
+   "F": "Wǒ zài xià lóu.",
+   "G": "Tôi đang xuống lầu."
+ },
+ {
+   "A": "117",
+   "B": "下午",
+   "C": "xiàwǔ",
+   "D": "buổi chiều",
+   "E": "下午我们去逛街。",
+   "F": "Xiàwǔ wǒmen qù guàngjiē.",
+   "G": "uổi chiều, chúng tôi đi dạo phố."
+ },
+ {
+   "A": "118",
+   "B": "下雨",
+   "C": "xià yǔ",
+   "D": "mưa",
+   "E": "外面下雨了，记得带伞。",
+   "F": "Wàimiàn xià yǔ le, jìdé dài sǎn.",
+   "G": "Ngoài trời mưa, nhớ mang theo ô."
+ },
+ {
+   "A": "119",
+   "B": "先生",
+   "C": "xiānshēng",
+   "D": "ông, ngài",
+   "E": "先生，这边请。",
+   "F": "Xiānshēng, zhè biān qǐng",
+   "G": "Mời anh qua bên này."
+ },
+ {
+   "A": "120",
+   "B": "现在",
+   "C": "xiànzài",
+   "D": "bây giờ",
+   "E": "我现在很累。",
+   "F": "Wǒ xiànzài hěn lèi.",
+   "G": "Tôi hiện tại rất mệt."
+ },
+ {
+   "A": "121",
+   "B": "想",
+   "C": "xiǎng",
+   "D": "nghĩ, muốn",
+   "E": "我想去看电影。",
+   "F": "Wǒ xiǎng qù kàn diànyǐng.",
+   "G": "Tôi muốn đi xem phim."
+ },
+ {
+   "A": "122",
+   "B": "小",
+   "C": "xiǎo",
+   "D": "nhỏ",
+   "E": "这是一只小狗。",
+   "F": "Zhè shì yī zhī xiǎo gǒu.",
+   "G": "Đây là một chú chó con."
+ },
+ {
+   "A": "123",
+   "B": "小姐",
+   "C": "xiǎojiě",
+   "D": "cô (trong cách gọi)",
+   "E": "小姐，请问这里有洗手间吗？",
+   "F": "Xiǎojiě, qǐngwèn zhèlǐ yǒu xǐshǒujiān ma?",
+   "G": "Cô ơi, xin hỏi ở đây có nhà vệ sinh không?"
+ },
+ {
+   "A": "124",
+   "B": "些",
+   "C": "xiē",
+   "D": "vài",
+   "E": "我们买了一些水果。",
+   "F": "Wǒmen mǎile yīxiē shuǐguǒ.",
+   "G": "Chúng tôi đã mua một ít trái cây."
+ },
+ {
+   "A": "125",
+   "B": "写",
+   "C": "xiě",
+   "D": "viết",
+   "E": "我正在写信。",
+   "F": "Wǒ zhèngzài xiě xìn.",
+   "G": "Tôi đang viết thư."
+ },
+ {
+   "A": "126",
+   "B": "谢谢",
+   "C": "xièxiè",
+   "D": "cảm ơn",
+   "E": "谢谢你的帮助。",
+   "F": "Xièxiè nǐ de bāngzhù.",
+   "G": "Cảm ơn sự giúp đỡ của bạn."
+ },
+ {
+   "A": "127",
+   "B": "星期",
+   "C": "xīngqī",
+   "D": "tuần",
+   "E": "一个星期就好。",
+   "F": "Yí gè xīngqī jiǔ hǎo.",
+   "G": "Một tuần là được"
+ },
+ {
+   "A": "128",
+   "B": "学生",
+   "C": "xuéshēng",
+   "D": "học sinh",
+   "E": "他是一个好学生。",
+   "F": "Tā shì yīgè hǎo xuéshēng.",
+   "G": "Anh ấy là một học sinh giỏi."
+ },
+ {
+   "A": "129",
+   "B": "学习",
+   "C": "xuéxí",
+   "D": "học tập",
+   "E": "学习中文很有趣。",
+   "F": "Xuéxí zhōngwén hěn yǒuqù.",
+   "G": "Học tiếng Trung rất thú vị."
+ },
+ {
+   "A": "130",
+   "B": "学校",
+   "C": "xuéxiào",
+   "D": "trường học",
+   "E": "我在学校学习中文。",
+   "F": "Wǒ zài xuéxiào xuéxí zhōngwén.",
+   "G": "Tôi học tiếng Trung ở trường."
+ },
+ {
+   "A": "131",
+   "B": "一",
+   "C": "yī",
+   "D": "một",
+   "E": "一个人在公园散步。",
+   "F": "Yī gè rén zài gōngyuán sànbù.",
+   "G": "Một người đang đi dạo trong công viên."
+ },
+ {
+   "A": "132",
+   "B": "衣服",
+   "C": "yīfu",
+   "D": "quần áo",
+   "E": "这件衣服很漂亮。",
+   "F": "Zhè jiàn yīfu hěn piàoliang.",
+   "G": "Bộ quần áo này rất đẹp."
+ },
+ {
+   "A": "133",
+   "B": "医生",
+   "C": "yīshēng",
+   "D": "bác sĩ",
+   "E": "他是一位医生。",
+   "F": "Tā shì yī wèi yīshēng.",
+   "G": "Anh ấy là một bác sĩ."
+ },
+ {
+   "A": "134",
+   "B": "医院",
+   "C": "yīyuàn",
+   "D": "bệnh viện",
+   "E": "我们去医院看病。",
+   "F": "Wǒmen qù yīyuàn kàn bìng.",
+   "G": "Chúng tôi đến bệnh viện để khám bệnh."
+ },
+ {
+   "A": "135",
+   "B": "椅子",
+   "C": "yǐzi",
+   "D": "ghế",
+   "E": "请坐在椅子上。",
+   "F": "Qǐng zuò zài yǐzi shàng.",
+   "G": "Xin ngồi lên ghế."
+ },
+ {
+   "A": "136",
+   "B": "月",
+   "C": "yuè",
+   "D": "tháng, mặt trăng",
+   "E": "这个月我很忙。",
+   "F": "Zhège yuè wǒ hěn máng.",
+   "G": "Tháng này tôi rất bận."
+ },
+ {
+   "A": "137",
+   "B": "在",
+   "C": "zài",
+   "D": "ở, tại",
+   "E": "他在学校学习。",
+   "F": "Tā zài xuéxiào xuéxí.",
+   "G": "Anh ấy học ở trường."
+ },
+ {
+   "A": "138",
+   "B": "再见",
+   "C": "zàijiàn",
+   "D": "tạm biệt",
+   "E": "我们明天再见。",
+   "F": "Wǒmen míngtiān zàijiàn.",
+   "G": "Chúng ta gặp lại vào ngày mai."
+ },
+ {
+   "A": "139",
+   "B": "怎么",
+   "C": "zěnme",
+   "D": "làm sao",
+   "E": "你怎么了？",
+   "F": "Nǐ zěnme le?",
+   "G": "Bạn sao vậy?"
+ },
+ {
+   "A": "140",
+   "B": "怎么样",
+   "C": "zěnmeyàng",
+   "D": "như thế nào",
+   "E": "你的工作怎么样？",
+   "F": "Nǐ de gōngzuò zěnmeyàng?",
+   "G": "Công việc của bạn thế nào?"
+ },
+ {
+   "A": "141",
+   "B": "这",
+   "C": "zhè",
+   "D": "Đây, này",
+   "E": "这件事怎么样？",
+   "F": "Zhè jiàn shì zěnme yàng?",
+   "G": "Việc này như thế nào?"
+ },
+ {
+   "A": "142",
+   "B": "中国",
+   "C": "Zhōngguó",
+   "D": "Trung Quốc",
+   "E": "中国有很多美丽的风景。",
+   "F": "Zhōngguó yǒu hěn duō měilì de fēngjǐng.",
+   "G": "Trung Quốc có nhiều cảnh đẹp."
+ },
+ {
+   "A": "143",
+   "B": "中午",
+   "C": "zhōngwǔ",
+   "D": "buổi trưa",
+   "E": "中午我们去吃饭吧。",
+   "F": "Zhōngwǔ wǒmen qù chīfàn ba.",
+   "G": "Buổi trưa chúng ta đi ăn cơm nhé."
+ },
+ {
+   "A": "144",
+   "B": "住",
+   "C": "zhù",
+   "D": "sống, cư trú",
+   "E": "我住在一个很安静的地方。",
+   "F": "Wǒ zhù zài yīgè hěn ānjìng de dìfāng.",
+   "G": "Tôi sống ở một nơi rất yên tĩnh."
+ },
+ {
+   "A": "145",
+   "B": "桌子",
+   "C": "zhuōzi",
+   "D": "bàn",
+   "E": "桌子上放着一本书。",
+   "F": "Zhuōzi shàng fàngzhe yī běn shū.",
+   "G": "Trên bàn có một cuốn sách."
+ },
+ {
+   "A": "146",
+   "B": "字",
+   "C": "zì",
+   "D": "chữ",
+   "E": "我们要学会写字。",
+   "F": "Wǒmen yào xuéhuì xiě zì.",
+   "G": "Chúng ta phải học viết chữ."
+ },
+ {
+   "A": "147",
+   "B": "昨天",
+   "C": "zuótiān",
+   "D": "hôm qua",
+   "E": "昨天我去看了一部电影。",
+   "F": "Zuótiān wǒ qù kànle yī bù diànyǐng.",
+   "G": "Hôm qua tôi đã đi xem một bộ phim."
+ },
+ {
+   "A": "148",
+   "B": "坐",
+   "C": "zuò",
+   "D": "ngồi",
+   "E": "我们在公园里坐了一会儿。",
+   "F": "Wǒmen zài gōngyuán lǐ zuòle yīhuìr.",
+   "G": "Chúng tôi đã ngồi một lúc trong công viên."
+ },
+ {
+   "A": "149",
+   "B": "做",
+   "C": "zuò",
+   "D": "làm",
+   "E": "他正在做作业。",
+   "F": "Tā zhèngzài zuò zuòyè.",
+   "G": "Anh ấy đang làm bài tập về nhà."
+ }
+]
+
+    .then(response => response.json())
+    .then(data => {
+        const tableBody = document.getElementById('vocabulary-table');
+        const flashcardsContainer = document.getElementById('flashcards');
+
+        // Lặp qua từng chủ đề và hiển thị từ vựng
+        for (let topic in data) {
+            const topicSection = document.createElement('h3');
+            topicSection.textContent = topic;
+            tableBody.appendChild(topicSection);
+
+            // Thêm từ vựng vào bảng từ điển
+            data[topic].forEach(item => {
+                const row = document.createElement('tr');
+                row.innerHTML = `
+                    <td>${item.han_viet}</td>
+                    <td>${item.chinese}</td>
+                    <td>${item.vietnamese}</td>
+                `;
+                tableBody.appendChild(row);
+
+                // Thêm flashcard vào container
+                const flashcard = document.createElement('div');
+                flashcard.classList.add('flashcard');
+                flashcard.innerHTML = `
+                    <div class="front">${item.han_viet}</div>
+                    <div class="back">${item.chinese} - ${item.vietnamese}</div>
+                `;
+                flashcardsContainer.appendChild(flashcard);
+            });
+        }
+    })
+    .catch(error => console.error('Error loading vocabulary:', error));

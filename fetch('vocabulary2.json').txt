@@ -1,0 +1,6666 @@
+fetch('vocabulary.json')  //
+HSK2 ('vocabulary)//
+[
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "1       啊           ā            a, chà, à"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "2      爱情         àiqíng         tình yêu"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "3      安静         ānjìng         yên lặng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "4      爱人         àirén          vợ/ chồng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "5      安全        ānquán           an toàn"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "6      白色         báisè         màu trắng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "7      班长       bānzhǎng        lớp trưởng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "8       办          bàn             làm"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "9      办法         bànfǎ      cách, phương pháp"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "10    办公室       bàngōngshì    phòng làm việc"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "11     半夜         bànyè          nửa đêm"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "12     帮助        bāngzhù          giúp đỡ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "13    饱      bǎo                 no, ăn no"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "14   报名    bào//míng         đăng kí, báo danh"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "15   报纸     bàozhǐ               báo (giấy)"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "16   北方     běifāng             phương Bắc"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "17    背       bèi                đọc thuộc"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "18   比如      bǐrú                  ví dụ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "19   比如说   bǐrúshuō           Nói ví dụ như…"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "20    笔       bǐ                    bút"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "21   笔记       bǐjì                ghi chép"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "22   笔记本    bǐjìběn             vở ghi chép"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "23   必须      bìxū             nhất định, phải"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "24    边      biān              viền, cạnh bên"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "25    变      biàn                 thay đổi"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "26   变成    biànchéng   trở thành, biến thành, thành ra"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "27    遍       biàn                   lần"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "28    表       biǎo                đồng hồ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "29    表示     biǎoshì           bày tỏ, thể hiện"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "30    不错      bùcuò             ổn, không tồi"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "31    不但      bùdàn      không những…, không chỉ…."
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "32    不够     bùgòu                chưa đủ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "33    不过     bùguò          chẳng qua, nhưng mà"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "34    不太      bù tài             không quá"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "35    不要      bùyào           không cần, đừng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "36   不好意思   bù hǎoyìsi      ngại quá, thật là ngại"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "37    不久      bùjiǔ              không lâu"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "38    不满     bùmǎn         bất mãn, không hài lòng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "39    不如      bùrú           chẳng bằng, hay là"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "40    不少     bù shǎo           không ít, nhiều"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "41    不同    bù tóng         không giống nhau"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "42    不行     bùxíng       không ổn, không được"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "43   不一定    bùyīdìng            chưa chắc"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "44   不一会儿   bù yīhuìr   không lâu sau, mới một lát"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "45    部分     bùfèn                phần"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "46    才        cái          (đến lúc đó) mới"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "47    菜单     càidān             thực đơn"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "48    参观    cānguān            tham quan"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "49    参加     cānjiā             tham gia"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "50    草       cǎo                  cỏ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "51    草地     cǎodì                bãi cỏ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "52    层       céng              tầng, lớp"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "53    査       chá              tìm, tra cứu"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "54   差不多    chàbùduō         đại khái, xấp xỉ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "55   长      cháng                  dài"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "56   常见   cháng jiàn          thường thấy"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "57   常用   cháng yòng   thường dùng, thông dụng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "58   场      chǎng            sân, bãi, cuộc"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "59   超过    chāoguò           hơn, vượt qua"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "60   超市    chāoshì              siêu thị"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "61   车辆    chēliàng    xe/ phương tiện giao thông"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "62   称      chēng             gọi, xưng hô"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "63   成      chéng          thành, hoàn thành"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "64   成绩    chéngjì        thành tích, thành tựu"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "65   成为   chéngwéi       trở thành, biến thành"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "66   重复    chóngfù          lặp lại, trùng lặp"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "67   重新   chóngxīn           làm lại từ đầu"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "68   出发     chūfā              xuất phát"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "69   出国    chū//guó      xuất ngoại, ra nước ngoài"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "70   出口     chū kǒu                lối ra"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "71   出门    chū//mén       đi ra ngoài, ra khỏi nhà"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "72   出生    chūshēng           sinh ra, ra đời"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "73   出现     chūxiàn              xuất hiện"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "74   出院    chū//yuàn         xuất viện, ra viện"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "75   出租     chū zū          cho thuê, cho mướn"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "76   出租车   chū zū chē           xe cho thuê"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "77    船      chuán              thuyền, tàu"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "78    吹      chuī            thổi, hà hơi, sấy"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "79   春节     Chūnjié     Tết âm lịch, tết Nguyên Đán"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "80   春天    chūntiān             mùa xuân"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "81    词        cí                   từ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "82   词典      cídiǎn               từ điển"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "83   词语      cíyǔ               từ ngữ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "84   从小    cóngxiǎo          từ nhỏ, từ bé"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "85   答应     dāying          trả lời, đồng ý"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "86   打工    dǎ//gōng       làm công, làm thêm"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "87   打算    dǎ·suàn           định; dự toán"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "88   打印     dǎyìn              in, photo"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "89   大部分   dàbùfèn          đa số, phần lớn"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "90   大大      dàdà        rất, cực kỳ, vượt bậc"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "91   大多数   dàduōshù   đại đa số, phần lớn, số đông"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "92   大海     dàhǎi         biển cả, đại dương"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "93   大家     dàjiā             mọi người"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "94   大量    dàliàng    nhiều, lượng lớn, hàng loạt"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "95   大门     dàmén           cổng, cửa chính"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "96   大人     dàrén              người lớn"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "97    大声    dà shēng         nói to, lớn tiếng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "98    大小    dàxiǎo               khổ, cỡ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "99    大衣      dàyī           áo khoác ngoài"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "100   大自然   dàzìrán    thiên nhiên, giới thiên nhiên"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "101    带      dài       mang theo, đem theo, dẫn"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "102   带来     dài·lái        đem lại, mang tới"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "103   单位    dānwèi                đơn vị"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "104    但      dàn                 nhưng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "105   但是     dànshì             nhưng mà"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "106    蛋      dàn                 trứng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "107    当     dāng            làm, đảm nhiệm"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "108   当时    dāngshí           lúc đó, khi đó"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "109    倒      dǎo                ngã, đổ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "110   到处    dàochù          khắp nơi, mọi nơi"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "111   倒      dào                rót, đổ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "112   道      dào         con đường, đường"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "113   道理    dào·lǐ              đạo lý"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "114   道路    dàolù        đường, đường phố"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "115   得      de      biểu thị khả năng, sự có thể"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "116   得出    déchū        thu được, đạt được"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "117   的话    dehuà               nếu…."
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "118   得      dé           được, nhận được"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "119   灯     dēng                  đèn"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "120   等     děng       trợ từ biểu thị sự liệt kê"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "121   等到   děngdào         đến lúc, đến khi"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "122   等于   děngyú              bằng, là"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "123   低      dī                  thấp"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "124   地球    dìqiú         Trái Đất, địa cầu"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "125   地铁       dìtiě        tàu điện ngầm"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "126   地铁站    dìtiězhàn     ga tàu điện ngầm"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "127   点头      diǎntóu          gật đầu"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "128    店       diàn      tiệm, quán, cửa hàng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "129    掉       diào          rơi, rớt, mất"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "130   东北     dōngběi          Đông Bắc"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "131   东方     dōngfāng       phương Đông"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "132   东南     dōngnán          đông nam"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "133   冬天     dōngtiān         mùa đông"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "134    懂       dǒng              hiểu"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "135   懂得      dǒngde          hiểu được"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "136   动物     dòngwù            động vật"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "137   动物园   dòngwùyuán   vườn bách thú, sở thú"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "138   读音      dúyīn        cách đọc, âm đọc"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "139   度       dù                  độ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "140   短      duǎn                ngắn"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "141   短信   duǎnxìn              tin nhắn"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "142   段      duàn          đoạn, quãng, khúc"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "143   队       duì              đội, nhóm"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "144   队长   duì zhǎng   đội trưởng, nhóm trưởng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "145   对       duì           đối với, đối đãi"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "146   对话    duìhuà        đối thoại, hội thoại"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "147   对面   duìmiàn              đối diện"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "148   多      duō       bao nhiêu, to nhường nào"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "149   多久    duōjiǔ              bao lâu"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "150   多么    duōme          bao nhiêu, bao xa"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "156   发现    fāxiàn             phát hiện"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "151   多数    duōshù     đa số, phần đông, số nhiều"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "152   多云      duōyún             nhiều mây"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "153   而且        érqiě      mà còn, với lại, hơn nữa"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "154    发         fā               phát, gửi"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "155   饭馆      fànguǎn      cửa hàng ăn, tiệm cơm"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "157   方便      fāngbiàn            thuận tiện"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "158   方便面   fāngbiànmiàn     mì ăn liền, mì tôm"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "159   方法       fāngfǎ        phương pháp, cách"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "160   方面     fāngmiàn      phương diện, khía cạnh"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "161   方向     fāngxiàng         phương hướng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "162   放下      fàngxià       đặt xuống, thả xuống"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "163   放心      fàng//xīn            yên tâm"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "164    分        fēn              phân, chia"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "165   分开      fēn//kāi        xa cách, tách biệt"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "166   分数       fēnshù              điểm số"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "167   分钟    fēnzhōng             phút"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "168    份       fèn               phần"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "169    封      fēng        phong, bìa, lá, bức"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "170   服务      fúwù             phục vụ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "171   复习      fùxí              ôn tập"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "172    该       gāi                nên"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "173    改       gǎi         đổi, thay đổi, sửa"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "174   改变     gǎibiàn       biến đổi, thay đổi"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "175   干杯    gān//bēi       cạn ly, cạn chén"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "176   感到     gǎndào         cảm thấy, thấy"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "177   感动    gǎndòng           cảm động"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "178   感觉     gǎnjué      cảm thấy; cảm nhận"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "179   感谢     gǎnxiè       cảm ơn; lời cảm ơn"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "180   干活儿   gàn//huór   làm việc nặng, lao động"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "181    刚         gāng         vừa, vừa mới, chỉ mới"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "182    刚才       gāngcái         vừa nãy, hồi nãy"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "183    刚刚      gānggāng       vừa, vừa hay, vừa vặn"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "184    高级        gāojí              cao cấp"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "185    高中      gāozhōng              cấp III"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "186    个子         gèzi        vóc dáng, vóc người"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "187    更         gèng         càng, thêm, hơn nữa"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "188   公共汽车   gōnggòng qìchē    xe buýt công cộng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "189   公交车     gōngjiāochē      xe buýt công cộng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "190    公斤       gōngjīn            ki-lô-gram"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "191    公里        gōnglǐ             ki-lô-mét"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "192    公路       gōnglù         đường cái, quốc lộ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "193    公平      gōngpíng            công bằng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "194    公司        gōngsī             công ty"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "195   公园   gōngyuán         công viên"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "196   狗       gǒu         chó, con chó"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "197   够       gòu            đủ, đạt"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "198   故事     gùshì      truyện, câu chuyện"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "199   故意      gùyì         cố ý, cố tình"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "200   顾客      gùkè         khách hàng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "201   关机     guānjī     tắt máy điện thoại"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "202   关心    guānxīn         quan tâm"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "203   观点    guāndiǎn        quan điểm"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "204   广场   guǎngchǎng     quảng trường"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "205   广告   guǎnggào         quảng cáo"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "206   国际     guójì           quốc tế"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "207   过来     guò·lái      đến, qua đây"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "208   过年    guònián      ăn Tết, đón Tết"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "209   过去    guòqù     qua đó (rời xa chủ thể nói)"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "210   过      guò               đã, từng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "211   海      hǎi                 biển"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "212   海边   hǎi biān            bờ biển"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "213   喊      hǎn               kêu, gọi"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "214   好      hǎo              rất,quá, …"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "215   好处   hǎochù          điểm tốt, có ích"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "216   好多   hǎoduō              rất nhiều"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "217   好久    hǎojiǔ              rất lâu"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "218   好人    hǎorén            người tốt"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "219   好事    hǎoshì            chuyện tốt"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "220   好像   hǎoxiàng           hình như"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "221   合适    héshì           hợp, phù hợp"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "222   河      hé                  sông"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "223   黒      hēi                 đen"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "224   黑板   hēibǎn               bảng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "225   黑色    hēisè             màu đen"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "226   红     hóng                 đỏ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "227   红色   hóngsè              màu đỏ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "228   后来   hòulái             sau này"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "229   忽然    hūrán            đột nhiên"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "230   湖      hú                  hồ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "231   护照   hùzhào             hộ chiếu"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "232   花      huā     tiêu, dùng (tiền, thời gian)"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "233   花园   huāyuán           vườn hoa"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "234   画      huà                 vẽ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "235   画家   huàjiā              họa sĩ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "236   画儿    huàr             bức tranh"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "237   坏处   huàichù    điểm xấu, có hại"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "238   坏人   huàirén       người xấu"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "239   欢迎   huānyíng    hoan nghênh"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "240   换     huàn            đổi"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "241   黄     huáng          vàng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "242   黄色   huángsè       màu vàng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "243   回      huí          lần, hồi"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "244   回国   huí guó        về nước"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "245   会      huì            hội"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "246   活动   huódòng       hoạt động"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "247   或      huò        hoặc, hay là"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "248   或者   huòzhě         hoặc là"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "249   机会    jī·huì        cơ hội"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "250   鸡       jī            gà"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "251     级            jí            cấp, bậc, đẳng cấp"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "252     急            jí                   vội"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "253    计划          jìhuà           dự định, kế hoạch"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "254    计算机        jìsuànjī              máy tính"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "255     加           jiā                   thêm"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "256    加油         jiāyóu                 cố lên"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "257   家(科学家)   jiā (kēxuéjiā)         nhà khoa học"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "258    家庭         jiātíng               gia đình"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "259    家长        jiāzhǎng       phụ huynh, người giám hộ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "260     假           jiǎ                    giả"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "261    假期          jiàqī         kì nghỉ, thời gian nghỉ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "262    检查         jiǎnchá               kiểm tra"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "263    见到         jiàndào         nhìn thấy, trông thấy"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "264    见过         jiànguò          từng gặp, từng thấy"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "265    件        jiàn        bộ, câu (chuyện),…"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "266   健康      jiànkāng           mạnh khỏe"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "267    讲       jiǎng            giảng, kể, nói"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "268   讲话     jiǎng//huà    nói chuyện, kể chuyện"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "269    交        jiāo              giao, nộp"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "270   交给      jiāo gěi           giao cho…"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "271   交朋友   jiāo péngyǒu           kết bạn"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "272   交通      jiāotōng           giao thông"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "273    角        jiǎo              góc, cạnh"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "274   角度       jiǎodù      phía, góc độ, quan điểm"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "275   饺子       jiǎozi        bánh chẻo, sủi cảo"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "276    脚        jiǎo                chân"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "277   叫作      jiàozuò          (được) gọi là…"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "278   教师      jiàoshī         giáo sư, giáo viên"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "279   教室     jiàoshì      phòng học, giảng đường"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "280   教学     jiàoxué              dạy học"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "281   教育     jiàoyù              giáo dục"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "282    接        jiē         đón, đỡ, lấy, nhận"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "283   接到      jiēdào            nhận được"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "284   接受     jiēshòu            chấp nhận"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "285   接下来   jiē·xià·lái          tiếp theo"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "286   接着      jiēzhe      tiếp, tiếp theo, tiếp tục"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "287    街        jiē             đường phố"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "288    节        jié            ngày (lễ, tết)"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "289   节目      jiémù              tiết mục"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "290   节日       jiérì              ngày lễ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "291   结果     jiéguǒ               kết quả"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "292    借        jiè                mượn"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "293   斤       jīn           cân (1/2kg)"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "294   今后    jīnhòu     sau này, từ này về sau"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "295   进入     jìnrù     nhập, sát nhập, vào,…"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "296   进行    jìnxíng       tiến hành, làm"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "297   近       jìn               gần"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "298   经常   jīngcháng       thường xuyên"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "299   经过    jīngguò      từng trải, trải qua"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "300   经理     jīnglǐ          giám đốc"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "301   酒       jiǔ              rượu"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "302   酒店    jiǔdiàn          nhà nghỉ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "303   就要    jiùyào        sẽ, sẽ đến, sắp"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "304   举       jǔ          giơ, giương cao"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "305   举手    jǔshǒu            giơ tay"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "306   举行    jǔxíng       tổ chức, tiến hành"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "307   句       jù                 câu"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "308   句子     jùzi                câu"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "309   卡       kǎ               thẻ, vé"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "310   开机     kāijī             mở máy"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "311   开心    kāixīn              vui vẻ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "312   开学    kāixué      khai giảng, nhập học"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "313   看法    kàn·fǎ            cách nhìn"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "314   考生   kǎoshēng            thí sinh"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "315   靠      kào            dựa, dựa vào"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "316   科       kē         môn học, môn, khoa"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "317   科学    kēxué     khoa học, có tính khoa học"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "318   可爱     kěài        đáng yêu, dễ thương"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "319   可能   kěnéng             khả năng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "320   可怕     kěpà              đáng sợ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "321   可是      kěshì           nhưng mà"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "322   可以      kěyǐ              có thể"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "324    克       kè        gam (đơn vị đo lường)"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "323    刻       kè              15 phút"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "325   客人     kè·rén             khách"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "326   课堂     kètáng        tại lớp, trong lớp"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "327   空气     kōngqì           không khí"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "328    哭       kū                khóc"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "329   快餐     kuàicān         bữa ăn nhanh"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "330   快点儿   kuài diǎnr        nhanh lên"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "331   快乐     kuàilè             vui vẻ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "332   快要     kuàiyào           sắp phải"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "333   筷子     kuài zi              đũa"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "334    拉        lā              kéo, lôi"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "335   来自       láizì              đến từ…"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "336    蓝        lán         xanh lam, xanh da trời"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "337   蓝色       lánsè            màu xanh lam"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "338   篮球      lánqiú               bóng rổ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "339    老        lǎo              hay, thường"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "340    老        lǎo       xưng hô thân mật với người"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "kém tuổi (dùng cho nam)"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "341   老年      lǎonián              tuổi già"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "342   老朋友   lǎo péngyǒu            bạn cũ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "343   老是      lǎo·shì       hay, thường (tiêu cực)"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "344    离        lí                   cách"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "345   离开       líkāi               rời khỏi"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "346   礼物       lǐwù               lễ vật, quà"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "347   里头       lǐtou              bên trong"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "348   理想    lǐxiǎng     ước mơ, lý tưởng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "349   例如     lìrú               ví dụ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "350   例子     lìzi               ví dụ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "351   脸      liǎn               mặt"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "352   练      liàn              luyện"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "353   练习    liànxí           luyện tập"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "354   凉      liáng              mát"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "355   凉快   liángkuài     mát mẻ, dễ chịu"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "356   两      liǎng               hai"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "357   亮      liàng              sáng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "358   辆      liàng        chiếc, cái (xe)"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "359   零下   líng xià      âm độ, dưới 0 độ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "360   留       liú      giữ lại, lưu lại, để lại"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "361   留下    liúxià          ở lại, để lại"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "362   留学生   liúxuéshēng       du học sinh"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "363    流        liú            chảy, trôi"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "364   流利       liúlì      trôi chảy, thuần thục"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "365   流行      liúxíng           phổ biến"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "366   路边      lù biān     vệ đường, lề đường"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "367   旅客       lǚkè          khách du lịch"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "368   旅行      lǚxíng            du lịch"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "369   旅游      lǚyóu             du lịch"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "370    绿        lǜ              xanh lá"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "371   绿色       lǜsè         màu xanh lá cây"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "372    卖       mài                bán"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "373    满       mǎn              đầy, tràn"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "374   满意      mǎnyì       vừa ý, mãn nguyện"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "375    猫       māo                mèo"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "376    米       mǐ                   mét"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "377   面’      miàn      mặt (người, đồ vật), nét mặt"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "378   面²      miàn      mặt, nét mặt, phương hướng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "379   面前    miànqián             trước mặt"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "380    名      míng                   vị"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "381   名称    míngchēng           tên gọi, tên"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "382   名单    míngdān              danh sách"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "383   明星    míngxīng    người nổi tiếng (ca sĩ, nghệ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "sĩ)"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "384   目的      mùdì               mục đích"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "385   拿出      náchū           mang ra, lấy ra"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "386   拿到      nádào              lấy được"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "387    那       nà                vậy, còn"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "388   那会儿    nàhuìr            lúc ấy, khi đó"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "389    那么          nàme          vậy thì, đến vậy, như thế"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "390   那时候那时   nà shíhòu nà shí        lúc đó, khi đó"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "391    那样         nàyàng                 như vậy"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "392    南方         nánfāng        miền Nam, phương Nam"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "393    难过         nánguò                 buồn bã"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "394    难看         nánkàn            xấu xí, không hay"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "395    难受        nánshòu                 khó chịu"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "396    难题          nántí           vấn đề khó, nan giải"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "397    难听         nántīng               khó nghe"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "398    能够        nénggòu           có thể, có khả năng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "399    年级          niánjí                  lớp"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "400    年轻        niánqīng           trẻ trung, trẻ tuổi"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "401     乌           wū                   đen, tối"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "402     弄          nòng           làm, cầm, tìm cách,…"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "403   努力     nǔlì          nỗ lực, cố gắng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "405   爬       pá             leo, trèo, bò"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "404   爬山   pá shān              leo núi"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "406   怕       pà                  sợ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "407   排       pái                hàng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "408   排队    páiduì            xếp hàng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "409   排球    páiqiú          bóng chuyền"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "410   碰      pèng            động, chạm"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "411   碰到   pèngdào     chạm phải, động đến, gặp"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "412   碰见   pèngjiàn        gặp, tình cờ gặp"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "413   篇      piān                 bài"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "414   便宜    piányi       tiện lợi, rẻ; được lợi"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "415   片      piàn         miếng, tấm, mảnh"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "416   漂亮   piàoliàng        đẹp, xinh đẹp"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "417    平      píng       bằng phẳng, phẳng phiu"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "418   平安     píng’ān          bình an, yên ổn"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "419   平常    píngcháng      bình thường, giản dị"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "420   平等    píngděng       bình đẳng, công bằng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "421   平时     píngshí     bình thường, lúc thường"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "422    瓶      píng              bình, lọ, hũ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "423   瓶子     píngzi       cái lọ, cái bình, cái chai"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "424   普通     pǔtōng       phổ thông, bình thường"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "425   普通话   pǔtōnghuà         tiếng phổ thông"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "426   其他      qítā         cái khác, người khác"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "427   其中     qízhōng    trong ( 1 tập thể/cái gì…)đó"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "428    骑       qí            cưỡi/ đi, đạp (xe)"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "429   骑车     qí chē                đạp xe"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "430   起飞      qǐfēi               cất cánh"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "431    气         qì                khí, hơi"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "432   气温       qìwēn              nhiệt độ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "433    千        qiān                nghìn"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "434   千克       qiānkè         1000 gram (1kg)"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "435   前年      qiánnián           năm trước"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "436    墙       qiáng                tường"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "437   青年      qīngnián       thanh niên, bạn trẻ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "438   青少年   qīng-shàonián      thanh thiếu niên"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "439    轻        qīng                 nhẹ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "440   清楚      qīngchǔ        rõ ràng, minh bạch"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "441    晴        qíng          trong, quang đãng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "442   晴天      qíngtiān      trời trong, quang đãng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "443   请客       qǐngkè            mời khách"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "444   请求      qǐngqiú             thỉnh cẩu"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "445   秋天    qiūtiān            mùa thu"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "446   求      qiú        thỉnh cầu, yêu cầu, xin"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "447   球场   qiúchǎng            sân bóng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "448   球队    qiúduì             đội bóng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "449   球鞋    qiúxié    giầy đá bóng, giầy thể thao"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "450   取       qǔ                 lấy"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "451   取得     qǔdé         lấy được, đạt được"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "452   全      quán           đầy đủ, tất cả"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "453   全部   quánbù              toàn bộ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "454   全国   quánguó            toàn quốc"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "455   全家   quánjiā            cả gia đình"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "456   全年   quánnián            cả năm"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "457   全身   quánshēn           toàn thân"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "458   全体    quántǐ             toàn thể"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "459   然后    ránhòu               sau đó"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "460   让       ràng        để, làm cho, khiến cho"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "461   热情     rèqíng             nhiệt tình"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "462   人口    rénkǒu          nhân khẩu, dân số"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "463   人们    rénmen             mọi người"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "464   人数     rénshù         sĩ số, lượng người"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "465   认为    rènwéi              cho rằng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "466   日报     rìbào      nhật báo, báo ra hàng ngày"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "467   日子      rìzi                ngày"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "468   如果     rúguǒ               nếu như"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "469   入口    rù //kǒu            lối đi vào"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "470   商量   shāngliáng     thương lượng, trao đổi"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "471   商人    shāngrén           doanh nhân"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "472   上周   shàng zhōu           tuần trước"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "473   少数     shǎoshù           thiểu số, số ít"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "474   少年     shàonián            thiếu niên"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "475   身边     shēnbiān       bên cạnh, ngay cạnh"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "476   什么样   shénmeyàng         như thế nào?"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "477    生      shēng          sinh sản, sinh tồn"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "478   生词     shēngcí               từ mới"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "479   生活     shēnghuó         cuộc sống; sống"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "480   声音     shēngyīn       âm thanh, giọng nói"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "481    省      shěng                 tỉnh"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "482    省      shěng      tiết kiệm, bỏ bớt, giảm bớt"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "483   十分      shífēn        rất, hết sức, vô cùng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "484   实际       shíjì          thực tế, thực tại"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "485   实习       shíxí              thực tập"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "486   实现      shíxiàn         thực hiện, hiên"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "487   实在     shízài            thật sự, thật là"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "489   食物     shíwù                 đồ ăn"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "490   使用    shǐyòng               sử dụng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "491   市       shì         thành thị, thành phố, chợ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "492   市长   shìzhǎng              thị trưởng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "493   事情    shì qíng          sự tình, sự việc"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "494   收      shōu       thu dọn; nhận lấy, đạt được…"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "495   收到   shōudào        nhận được (mặt vật chất)"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "496   收入    shōurù                thu nhập"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "497   手表   shǒubiǎo               đồng hồ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "498   受到   shòudào          nhận lấy, nhận được"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "499   舒服     shūfú           dễ chịu, thoải mái"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "500   熟    shú / shóu         chín; quen, thân"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "501   数       shù                con số, số"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "502   数字    shùzì          con số"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "503   水平   shuǐpíng       trình độ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "504   顺利    shùnlì        thuận lợi"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "505   说明   shuōmíng        nói rõ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "506   司机      sījī         tài xế"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "507   送到   sòngdào     gửi đi, tặng đi"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "508   送给   sòng gěi   gửi cho, tặng cho"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "509   算      suàn           tính"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "510   虽然    suīrán        mặc dù"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "511   随便    suíbiàn     tùy tiện, tùy"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "512   随时    suíshí     bất cứ lúc nào"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "513   所以    suǒyǐ     vậy nên, thế nên"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "514   所有    suǒyǒu         tất cả"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "515   它       tā          nó, con"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "516   它们    tāmen     bọn nó, chúng nó"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "517   太太    tàitài     quý bà, quý cô"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "518   太阳   tài·yáng       mặt trời"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "520   态度    tài·dù         thái độ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "519   讨论   tǎolùn        thảo luận"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "521   套      tào             bộ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "522   特别    tèbié     đặc biệt, vô cùng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "523   特点    tèdiǎn     điểm， đặc biệt"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "524   疼     téng         đau, nhức"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "525   提       tí         xách, nhấc"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "526   提出    tíchū          đưa ra"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "527   提到    tídào     đề cập, nhắc đến"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "528   提高    tígāo     đề cao, nâng cao"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "529   题       tí         đề, đề bài"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "530   体育        tǐyù             thể dục"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "531   体育场    tǐyùchǎng        sân vận động"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "532   体育馆     tǐyùguǎn        cung thể thao"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "533   天上     tiānshàng     bầu trời, không trung"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "534    条        tiáo            cái, chiếc"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "535   条件      tiáojiàn          điều kiện"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "536   听讲     tīngjiǎng          nghe giảng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "537   听说      tīngshuō           nghe nói"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "538    停        tíng        ngừng, ngưng, mất"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "539   停车      tíngchē         dừng xe, đỗ xe"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "540   停车场   tíngchēchǎng        bãi đỗ xe"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "541    挺        tǐng                rất"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "542   挺好      tǐng hǎo        rất tốt, khá tốt"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "543    通       tōng         thông, thông suốt"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "544   通过   tōngguò    thông qua, trải qua"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "545   通知   tōngzhī        thông báo"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "546   同时   tóngshí        đồng thời"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "547   同事   tóngshì       đồng nghiệp"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "548   同样   tóngyàng   giống nhau, đều là"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "549   头      tóu             đầu"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "550   里头     lǐtou         bên trong"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "551   头发    tóufà             tóc"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "552   图片    túpiàn         tranh ảnh"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "553   推       tuī          đẩy, đùn"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "554   腿       tuǐ            chân"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "555   外地    wàidì     nơi khác, vùng khác"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "556   外卖   wàimài      đồ bán bên ngoài"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "557   完      wán           hết, xong"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "558   完成    wánchéng          hoàn thành"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "559   完全     wánquán      đầy đủ, hoàn toàn"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "560   晚安     wǎn’ān         chúc ngủ ngon"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "561   晚报     wǎnbào           báo chiều"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "562   晚餐     wǎncān             bữa tối"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "563   晚会     wǎnhuì      dạ hội, đêm liên hoan"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "564    碗       wǎn             bát, chén"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "565    万       wàn         vạn, mười nghìn"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "566    网      wǎng       lưới; mạng (Internet)"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "567   网球     wǎngqiú       quần vợt, tennis"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "568   网站    wǎngzhàn           website"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "569    往      wǎng        đi, đến, tới, hướng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "570    为       wéi                vì"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "571   为什么   wèi shénme      tại sao, vì sao"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "572   位     wèi              vị này"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "573   味道   wèi·dào           mùi vị"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "574   喂     wèi                alo"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "575   温度   wēndù            nhiệt độ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "576   闻     wén               ngửi"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "577   问路   wènlù           hỏi đường"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "578   问题    wèntí        vấn đề, câu hỏi"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "579   午餐   wǔcān            cơm trưa"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "580   午睡   wǔshuì         giấc ngủ trưa"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "581   西北    xīběi            tây bắc"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "582   西餐    xīcān          đồ ăn Tây"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "583   西方   xīfāng         phương Tây"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "584   西南    xīnán           tây nam"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "585   西医    xīyī     Tây y, y học phương Tây"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "586   习惯     xíguàn           thói quen"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "587   洗衣机     xǐyījī           máy giặt"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "588   洗澡      xǐzǎo          tắm, tắm rửa"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "589    下       xià             cái, lần"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "590   下雪     xià xuě           tuyết rơi"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "591   下周    xià zhōu           tuần sau"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "592   夏天     xiàtiān           mùa hè"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "593   相同    xiāngtóng   tương đồng, giống nhau"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "594   相信    xiāngxìn          tin tưởng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "595    响      xiǎng     vang, vang lên, kêu lên"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "596   想到    xiǎngdào      nghĩ đến, nghĩ tới"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "597   想法    xiǎng·fǎ    suy nghĩ, phương pháp"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "598   想起     xiǎngqǐ            nhớ ra"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "599    向      xiàng           hướng, tới"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "600   相机     xiàngjī       máy chụp hình"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "601    像      xiàng            giống"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "602    小      Xiǎo              Tiểu"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "603   小声    xiǎo shēng   nhỏ tiếng, nói nhỏ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "604   小时候   xiǎoshíhòu        lúc nhỏ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "605   小说    xiǎoshuō         tiểu thuyết"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "606   小心     xiǎoxīn          cẩn thận"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "607   小组     xiǎozǔ         tổ, nhóm nhỏ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "608   校园    xiàoyuán        vườn trường"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "609   校长    xiàozhǎng       hiệu trưởng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "610   笑话     xiàohua     cười nhạo, chê cười"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "611   笑话儿    xiàohuar       truyện cười"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "612    鞋       xié              giày"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "613   心里      xīn·lǐ         trong lòng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "614   心情     xīnqíng     tâm tình, tâm trạng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "615   心中    xīnzhōng         trong lòng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "616   新闻     xīnwén        tin tức, bản tin"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "617    信       xìn               thư"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "618   信号     xìnhào            tín hiệu"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "619   信息      xìnxī       thông tin, tin tức"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "620   信心     xìnxīn     lòng tin, sự tin tưởng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "621   信用卡   xìnyòngkǎ       thẻ tín dụng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "622   星星    xīngxīng          ngôi sao"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "623   行动    xíngdòng         hành động"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "624   行人     xíngrén      người đi đường"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "625   行为     xíngwéi    hành vi, hành động"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "626    姓      xìng               họ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "627   姓名    xìngmíng           họ tên"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "628   休假   xiūjià            nghỉ phép"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "629   许多   xǔduō          rất nhiều, nhiều"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "630   选     xuǎn               chọn"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "631   学期    xuéqī             học kỳ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "632   雪     xuě                tuyết"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "633   颜色   yánsè              màu sắc"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "634   眼     yǎn                 mắt"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "635   眼睛   yǎnjing              mắt"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "636   养     yǎng            dưỡng, nuôi"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "637   样子   yàngzi       dáng vẻ, kiểu dáng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "638   要求   yāoqiú             yêu cầu"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "639   药     yào                thuốc"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "640   药店   yàodiàn   tiệm thuốc, cửa hàng thuốc"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "641   药片   yàopiàn          viên thuốc"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "642    药水      yàoshuǐ            thuốc nước"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "643    也许        yěxǔ         cũng có thể, may ra"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "644    夜          yè             đêm, ban đêm"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "645    夜里        yè·lǐ             giữa đêm"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "646   一部分      yī bùfèn      một bộ phận, một phần"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "647    一定       yīdìng             nhất định"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "648    一共       yīgòng            tổng cộng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "649   一会儿       yīhuìr          một lúc, một lát"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "650   一路平安   yīlù-píng’ān      thượng lộ bình an"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "651   一路顺风   yīlù-shùnfēng    thuận buồm xuôi gió"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "652    已经       yǐjīng             đã, từng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "653    以后       yǐhòu               sau này"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "654    以前       yǐqián        trước kia, trước đây"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "655    以上      yǐshàng         trở lên, phía trên"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "656   以外      yǐwài         ngoài ra, ngoài đó"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "657   以为      yǐwéi              cho rằng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "658   以下       yǐxià          dưới, trở xuống"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "659   椅子       yǐzi          ghế tựa, ghế dựa"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "660   一般      yībān       thông thường, phổ biến"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "661   一点点   yī diǎndiǎn          một chút"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "662   一生     yīshēng         một đời, trọn đời"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "663   一直       yīzhí      luôn luôn, suốt, liên tục"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "664    亿        yì               trăm triệu"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "665   意见      yì·jiàn              ý kiến"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "666   意思       yìsī               ý nghĩa"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "667   因为     yīn·wèi               bởi vì"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "668    阴       yīn               âm u, râm"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "669   阴天      yīntiān           ngày âm u"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "670   音节      yīnjié            âm tiết"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "671   音乐     yīnyuè             âm nhạc"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "672   音乐会   yīnyuèhuì        buổi hòa nhạc"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "673   银行     yínháng           ngân hàng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "674   银行卡   yínhángkǎ        thẻ ngân hàng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "675   应该     yīnggāi           nên, đáng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "676   英文    Yīngwén          ngôn ngữ Anh"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "677   英语     Yīngyǔ     tiếng Anh, ngôn ngữ Anh"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "678   影片    yǐngpiàn          phim truyện"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "679   影响    yǐngxiǎng         ảnh hưởng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "680   永远    yǒng yuǎn     mãi mãi , vĩnh viễn"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "681    油       yóu           dầu, mỡ, xăng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "682   游客     yóukè      khách du lịch, du khách"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "683   友好     yǒuhǎo        bạn tốt; thân thiện"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "684    有空儿      yǒukòngr                rảnh"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "685    有人        yǒurén           có người, có ai"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "686   有(一)点儿   yǒu(yī)diǎnr       có một chút, hơi"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "687    有意思       yǒu yìsī         có ý nghĩa, hay"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "688     又          yòu                lại, vừa"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "689     鱼          yú                    cá"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "690    语言         yǔyán              ngôn ngữ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "691    原来        yuánlái       ban đầu; thì ra, hóa ra"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "692    原因        yuányīn           nguyên nhân"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "693     院         yuàn                  viện"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "694    院长      yuànzhǎng            viện trưởng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "695    院子        yuànzi       sân nhỏ, sân trong, vườn"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "696    愿意        yuànyì               đồng ý"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "697    月份        yuèfèn                tháng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "698   月亮     yuèliàng          mặt trăng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "699    越       yuè           vượt, vượt qua"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "700   越来越   yuè lái yuè     càng ngày càng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "701    云       yún                mây"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "702   运动     yùndòng           vận động"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "703    咱       zán            tôi, ta, mình"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "704   咱们     zánmen       chúng ta, chúng mình"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "705    脏       zāng             bẩn, dơ"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "706   早餐      zǎocān           bữa sáng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "707   早晨     zǎochén      buổi sáng, sáng sớm"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "708   早就      zǎo jiù        sớm đã, từ lâu"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "709   怎么办   zěnme bàn         làm thế nào"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "710   怎么样   zěnmeyàng     như thế nào, làm sao"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "711   怎样     zěnyàng      như thế nào, làm sao"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "712     占             zhàn                    chiếm"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "713     站             zhàn               đứng, chiến đấu"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "714    站住           zhànzhù             đứng yên, đứng lại"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "715     长            cháng                      dài"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "716    长大           zhǎngdà              lớn lên, khôn lớn"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "717    找出           zhǎochū                   tìm ra"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "718    照顾           zhàogù                   chăm sóc"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "719    照片          zhàopiàn              tấm ảnh, bức ảnh"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "720    照相          zhàoxiàng           chụp ảnh, chụp hình"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "721    这么            zhème           như thế, như vậy, như này"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "722   这时候/这时   zhè shíhòu|zh è shí    lúc đó, lúc đấy, lúc này"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "723    这样           zhèyàng          như vậy, như thế, như này"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "724    真正          zhēnzhèng                chân chính"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "725    正常         zhèngcháng         bình thường, như thường"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "726   正好      zhènghǎo           vừa vặn, đúng lúc"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "727   正确      zhèngquè          chính xác, đúng đắn"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "728   正是      zhèng shì           đúng là, chính là"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "729   直接        zhíjiē                trực tiếp"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "730    只         zhǐ                 chỉ, chỉ có"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "731   只能       zhǐ néng              chỉ có thể"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "732   只要       zhǐyào                  chỉ cần"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "733    纸         zhǐ                    giấy"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "734   中餐      zhōngcān                bữa trưa"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "735   中级       zhōngjí                trung cấp"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "736   中年      zhōngnián              trung niên"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "737   中小学   zhōng- xiǎoxué      tiểu học và trung học"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "738   中心      zhōngxīn        trung tâm, vị trí hạt nhân"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "739   中医       zhōngyī       Đông y, y học phương Đông"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "740   重点    zhòngdiǎn       trọng điểm"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "741   重视    zhòngshì    coi trọng, chú trọng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "742    周      zhōu             tuần"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "743   周末     zhōumò          cuối tuần"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "744   周年    zhōunián     đầy năm, năm tròn"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "745   主人     zhǔ·rén    chủ nhân, chủ sở hữu"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "746   主要     zhǔyào           chủ yếu"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "747   住房     zhùfáng      nhà ở, phòng ở"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "748   住院    zhùyuàn     nằm viện, nhập viện"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "749    装     zhuāng            đựng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "750   准确    zhǔnquè     chuẩn xác, chính xác"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "751   自己       zìjǐ     tự mình, tự bản thân"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "752   自行车   zìxíngchē         xe đạp"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "753   自由      zìyóu            tự do"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "754   字典    zìdiǎn          tự điển"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "755   走过   zǒuguò       đi qua, bước qua"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "756   走进   zǒujìn       đi vào, bước vào"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "757   走开   zǒukāi        đi ra, tránh ra"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "758   租      zū           thuê, mướn"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "759   组      zǔ            tổ, nhóm"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "760   组成   zǔchéng    cấu thành, tạo thành"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "761   组长   zǔzhǎng   tổ trưởng, nhóm trưởng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "762   嘴      zuǐ             miệng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "763   最近    zuìjìn          gần đây"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "764   作家    zuòjiā      tác giả, nhà văn"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "765   作文   zuòwén           bài văn"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "766   作业    zuòyè           bài tập"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "767   作用   zuòyòng         công dụng"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "768   座     zuò        tòa"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "769   座位   zuò·wèi   chỗ ngồi"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "770   做到   zuòdào    làm được"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "771   做法   zuò·fǎ    cách làm"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": "772   做饭   zuòfàn    nấu cơm"
+ },
+ {
+   "Stt   Từ vựng   Phiên âm     Nghĩa tiếng Việt": ""
+ }
+]
+ [
+ {
+  
+]
+
+    .then(response => response.json())
+    .then(data => {
+        const tableBody = document.getElementById('vocabulary-table');
+        const flashcardsContainer = document.getElementById('flashcards');
+
+        // Lặp qua từng chủ đề và hiển thị từ vựng
+        for (let topic in data) {
+            const topicSection = document.createElement('h3');
+            topicSection.textContent = topic;
+            tableBody.appendChild(topicSection);
+
+            // Thêm từ vựng vào bảng từ điển
+            data[topic].forEach(item => {
+                const row = document.createElement('tr');
+                row.innerHTML = `
+                    <td>${item.han_viet}</td>
+                    <td>${item.chinese}</td>
+                    <td>${item.vietnamese}</td>
+                `;
+                tableBody.appendChild(row);
+
+                // Thêm flashcard vào container
+                const flashcard = document.createElement('div');
+                flashcard.classList.add('flashcard');
+                flashcard.innerHTML = `
+                    <div class="front">${item.han_viet}</div>
+                    <div class="back">${item.chinese} - ${item.vietnamese}</div>
+                `;
+                flashcardsContainer.appendChild(flashcard);
+            });
+        }
+    })
+    .catch(error => console.error('Error loading vocabulary:', error));
